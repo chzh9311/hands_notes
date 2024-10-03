@@ -1,0 +1,1 @@
+# Monocular real-time hand shape and motion capture using multi-modal data (CVPR'20)

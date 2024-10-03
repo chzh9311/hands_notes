@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "33ada397c09573b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6605e80d0beb73a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3dc3005b054313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd68e22a0e3d8f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb9fdee4abfaf1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e366d35a695b1f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbec0955eac63473",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d1047ffa411b506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastMETRO (Cho et al., 2022).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f2ab90638b37d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsDatasets/ARCTIC (Fan et al., 2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fae37eda46f70d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5afff6bdd65e000",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dcc9cdaaa225dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e69bda751e176374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b6646946f9d3f56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:DNN/GCN",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e8ea741aef66a41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "81f77285ebf5ca6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef609745d3d0705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1373836fe9859727",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10adb3f8c477f134",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33921cc902398b2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86c44039333dd712",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd68e22a0e3d8f63",
+  "lastOpenFiles": [
+    "Pasted image 20241002211048.png",
+    "Images/Pasted image 20241002205403.png",
+    "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+    "Images/Pasted image 20241002210854.png",
+    "Images/Pasted image 20241002210339.png",
+    "Images/Pasted image 20241002205755.png",
+    "PointHMR (Kim & Gwon et al., 2023).md",
+    "Images/Pasted image 20241002151924.png",
+    "HandsPapers/JointTransformer (Zeid 2023).md",
+    "HandsPapers/HandOccNet (Park et al., 2022).md",
+    "HandsPapers/2.5D Representation (Iqbal et al., 2018).md",
+    "HandsPapers/MinimalHand (Zhou et al., 2020).md",
+    "HandsPapers/High DoF Visual Tracking (Rehg and Kanade, 1994).md",
+    "HandsPapers/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "HandsPapers/DIGIT (Fan et al., 2021).md",
+    "HandsPapers/WildHands (Prakash et al., 2024).md",
+    "HandsPapers/MobRecon (Chen et al., 2022).md",
+    "HandsDatasets/DexYCB (Chao et al., 2021).md",
+    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
+    "MLBasics/Mesh-Graphormer (Lin et al., 2021).md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "FastMETRO (Cho et al., 2022).md",
+    "MLBasics/Deformable DETR (Zhu et al., 2021).md",
+    "Images/Pasted image 20240929161031.png",
+    "Images/Pasted image 20240929160410.png",
+    "Images/Pasted image 20240929160209.png",
+    "Images/Pasted image 20240929111752.png",
+    "MLBasics/Swin-L Transformer.md",
+    "MLBasics/RegNet (Radosavovic et al., 2020).md",
+    "HandsDatasets/ARCTIC (Fan et al., 2023).md",
+    "Images",
+    "HandsDatasets/AssemblyHands.md",
+    "MLBasics",
+    "HandPoseBasics/TextDriven.md",
+    "HandPoseBasics/ECCV24.md",
+    "Welcome.md",
+    "create a link.md",
+    "HandsDatasets",
+    "HandsPapers",
+    "HandPoseBasics/HPEMethods.md",
+    "HandPoseBasics"
+  ]
+}

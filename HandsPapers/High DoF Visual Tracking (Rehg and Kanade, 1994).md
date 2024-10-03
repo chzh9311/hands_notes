@@ -1,0 +1,1 @@
+# Visual tracking of high DOF articulated structures: An application to human hand tracking (ECCV'94)
