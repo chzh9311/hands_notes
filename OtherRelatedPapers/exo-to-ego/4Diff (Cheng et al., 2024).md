@@ -17,7 +17,7 @@ Publisher: ECCV
 * Sharp viewpoint changes between exo and ego views.
 * The dataset [[Ego-Exo4D]] only provides a few views.
 Current methods are not satisfactory:
-* Geometry-free methods generates geometrically imfeasible images;
+* Geometry-free methods generates geometrically infeasible images;
 * Geometry-based approaches generates non-photorealistic images.
 ## Main Idea
 * Egocentric point cloud rasterization
@@ -28,7 +28,6 @@ Current methods are not satisfactory:
 * GAN-based models
 	* [[X-fork&X-Seq]]. 
 ### Novel View Synthesis (NVS)
-
 
 ## Method
 ### Problem Formulation
@@ -48,3 +47,20 @@ The two main techniques are: **Point Cloud Rasterization** and **3D-aware Rotary
 1. The predicted noise each step is conditioned on egocentric prior $H^{prior}$ and exocentric semantic features $F^{exo}$.
 
 ### 3D-aware Rotary Cross-Attention
+Rotate the key when calculating with query:
+![[rotary cross-attention.png]]
+The $R_m$ is the rotation matrix.
+## Experiments
+* [[Ego-Exo4D]]: 
+### Baselines
+1. [[pix2pix]]: GAN-based method;
+2. [[GNT]]: NeRF-based method;
+3. [[DiT]]: Diffusion-based method;
+4. [[3DiM]]: Diffusion-based method.
+### Metrics
+* **LPIPS**: Learned Perceptual Image Patch Similarity.
+	$$ d(x, x_0) = \sum_l\frac{1}{H_lW_l}\sum_{h, w}\|w_l (\hat{y}^l_{hw} -\hat{y}^l_{0hw})\|^2_2$$
+	This metrics compares feature stack from layer $l$ instead of the image itself.
+* **[[DISTS]]**: Deep Image Structure and Texture Similarity
+* CLIP score: 
+![[Pasted image 20241007173144.png]]

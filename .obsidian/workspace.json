@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "33ada397c09573b0",
+    "id": "4d75cae2719ad8c2",
     "type": "split",
     "children": [
       {
-        "id": "6605e80d0beb73a7",
+        "id": "7ada60906c43464f",
         "type": "tabs",
         "children": [
           {
-            "id": "a39f0617cf63b9ac",
+            "id": "96a0a7e261217ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fae37eda46f70d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsPapers/WildHands (Prakash et al., 2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e5afff6bdd65e000",
+    "id": "411f4a5a3bf93e46",
     "type": "split",
     "children": [
       {
-        "id": "c7dcc9cdaaa225dd",
+        "id": "b6be2497fb85860e",
         "type": "tabs",
         "children": [
           {
-            "id": "e69bda751e176374",
+            "id": "897cb82a2a337973",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +43,12 @@
             }
           },
           {
-            "id": "8b6646946f9d3f56",
+            "id": "0ce7fcc99d99d641",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "End",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "3e8ea741aef66a41",
+            "id": "43ffac63a0c196fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
-    "id": "81f77285ebf5ca6c",
+    "id": "fbe5ddd7699ceae1",
     "type": "split",
     "children": [
       {
-        "id": "bef609745d3d0705",
+        "id": "d9c10392cf45c089",
         "type": "tabs",
         "children": [
           {
-            "id": "1373836fe9859727",
+            "id": "5502949a682b55c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -109,7 +97,7 @@
             }
           },
           {
-            "id": "10adb3f8c477f134",
+            "id": "73577e7f6888a0f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,18 +109,18 @@
             }
           },
           {
-            "id": "33921cc902398b2a",
+            "id": "8bc23eb296973a9f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "86c44039333dd712",
+            "id": "9660b525238eaed6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,70 +129,68 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a39f0617cf63b9ac",
+  "active": "96a0a7e261217ad5",
   "lastOpenFiles": [
-    "OtherRelatedPapers/Amodal Instance Segmentation (Li & Malik, 2016).md",
-    "OtherRelatedPapers/X-fork&X-Seq.md",
-    "Images/4Diff.png",
+    "Pasted image 20241007173144.png",
+    "Images/rotary cross-attention.png",
     "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
-    "HandsPapers/WildHands (Prakash et al., 2024).md",
-    "OtherRelatedPapers/exo-to-ego",
-    "OtherRelatedPapers/Untitled.md",
-    "HandsPapers/HShapeTransformer (Lin et al., 2021).md",
-    "HandsPapers/Learning R of HO (Hasson, et al., 2019).md",
-    "OtherRelatedPapers/HMR (Kanazawa et al., 2018).md",
-    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021).md",
-    "MLBasics/ResNet.md",
-    "MLBasics/Deformable DETR (Zhu et al., 2021).md",
-    "HandsPapers/Implicit for Grasp (Karunratanakul et al., 2020).md",
-    "HandsPapers/JointTransformer (Zeid 2023).md",
-    "OtherRelatedPapers/KPE.md",
-    "Images/KPE_def.png",
-    "HandsPapers/(Cheng et al., 2023).md",
-    "Images/WildHands Framework.png",
-    "HandsPapers/HOLD (Fan et al., 2024).md",
-    "HandsPapers/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
-    "OtherRelatedPapers",
-    "Images/Pasted image 20241003170804.png",
+    "HandPoseBasics/ECCV24.md",
     "HandsDatasets/HO3D-v3.md",
+    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
+    "HandsDatasets/DexYCB (Chao et al., 2021).md",
+    "HandsDatasets/AssemblyHands.md",
+    "HandsDatasets/ARCTIC (Fan et al., 2023).md",
+    "HandsDatasets",
+    "HandsPapers/WildHands (Prakash et al., 2024).md",
+    "HandsPapers/What's in ur hands (Ye et al., 2022).md",
+    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021).md",
     "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021.md",
     "HandsPapers/Photometric.md",
     "HandsPapers/MobRecon (Chen et al., 2022).md",
     "HandsPapers/MinimalHand (Zhou et al., 2020).md",
     "HandsPapers/MANO.md",
-    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
-    "Images/Amodal.png",
+    "HandsPapers/Learning R of HO (Hasson, et al., 2019).md",
+    "HandsPapers/JointTransformer (Zeid 2023).md",
+    "HandsPapers/Implicit for Grasp (Karunratanakul et al., 2020).md",
+    "HandsPapers/HShapeTransformer (Lin et al., 2021).md",
+    "HandsPapers/HOLD (Fan et al., 2024).md",
+    "HandsPapers/High DoF Visual Tracking (Rehg and Kanade, 1994).md",
+    "HandsPapers/HandOccNet (Park et al., 2022).md",
+    "HandsPapers/Hampali et al., 2023.md",
+    "HandsPapers/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "HandsPapers/DIGIT (Fan et al., 2021).md",
+    "HandsPapers",
+    "OtherRelatedPapers/exo-to-ego",
+    "OtherRelatedPapers",
+    "MLBasics",
+    "Images/WildHands Framework.png",
+    "Images/Pasted image 20241003170804.png",
+    "Images/Pasted image 20241002210854.png",
     "Images/Pasted image 20241003150319.png",
     "Images/Pasted image 20241002211048.png",
-    "Images/Pasted image 20241002205403.png",
-    "Images/Pasted image 20241002210854.png",
+    "Images/Pasted image 20241002205755.png",
     "Images/Pasted image 20241002210339.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Images/Pasted image 20241002205403.png",
+    "Images/Pasted image 20240929161031.png",
     "Images",
-    "MLBasics",
-    "HandsDatasets",
-    "HandsPapers",
     "HandPoseBasics"
   ]
 }
