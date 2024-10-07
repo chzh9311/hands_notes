@@ -47,9 +47,17 @@ $$
 **Framework Design**
 ![[Pasted image 20241002205403.png]]
 The sample is keypoint guided sampling
+**Implementations**
+*Note that there are 21 joints on hand*
+Input image: (B, 3, H, W) -> Features (B, 1216, 7, 7) -> Global Feature (B, 1216) - Project (A linear layer) -> (B, 42)
+The path under:
+1. Features (B, 1216, 7, 7) - upsample -> UpsampledFeatures (B, 64, 28, 28)
+2. UpsampledFeatures += Positional Embeddings.
+3. Point sample: sample the feature values at the 2D keypoint positions (from the 28 x 28 feature map.)
+
 **Loss Functions**
 ![[Pasted image 20241002205755.png]]
-Use the 2D joints $J_{2d}$ and 3D vertices $V_{3D}$ to guide the training. The 3D joints are calculated using matrix $J$: $J_{3d}=J\times V_{3d}$. 
+Use the 2D joints $J_{2d}$ and 3D vertices $V_{3D}$ to guide the training. The 3D joints are calculated using matrix $J$: $J_{3d}=J\times V_{3d}$. From [[MANO]] model
 ![[Pasted image 20241002210339.png]]
 As 2D keypoints are only used for token generation, they are weighted lighter than the others. $w_{3d}, w_{2d}, w_{vert}$ are 10, 1, 10 respectively.
 

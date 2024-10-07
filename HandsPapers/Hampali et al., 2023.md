@@ -1,0 +1,1 @@
+# In-hand 3d object scanning from an rgb sequence

@@ -8,80 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f3dc3005b054313",
+            "id": "a39f0617cf63b9ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd68e22a0e3d8f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bb9fdee4abfaf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e366d35a695b1f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbec0955eac63473",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d1047ffa411b506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FastMETRO (Cho et al., 2022).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f2ab90638b37d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsDatasets/ARCTIC (Fan et al., 2023).md",
+                "file": "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "file": "HandsPapers/WildHands (Prakash et al., 2024).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:DNN/GCN",
+                "query": "End",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "right": {
     "id": "81f77285ebf5ca6c",
@@ -166,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "file": "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+                "file": "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -206,12 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md"
+                "file": "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -229,49 +160,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd68e22a0e3d8f63",
+  "active": "a39f0617cf63b9ac",
   "lastOpenFiles": [
-    "Pasted image 20241002211048.png",
-    "Images/Pasted image 20241002205403.png",
+    "OtherRelatedPapers/Amodal Instance Segmentation (Li & Malik, 2016).md",
+    "OtherRelatedPapers/X-fork&X-Seq.md",
+    "Images/4Diff.png",
+    "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
+    "HandsPapers/WildHands (Prakash et al., 2024).md",
+    "OtherRelatedPapers/exo-to-ego",
+    "OtherRelatedPapers/Untitled.md",
+    "HandsPapers/HShapeTransformer (Lin et al., 2021).md",
+    "HandsPapers/Learning R of HO (Hasson, et al., 2019).md",
+    "OtherRelatedPapers/HMR (Kanazawa et al., 2018).md",
+    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021).md",
+    "MLBasics/ResNet.md",
+    "MLBasics/Deformable DETR (Zhu et al., 2021).md",
+    "HandsPapers/Implicit for Grasp (Karunratanakul et al., 2020).md",
+    "HandsPapers/JointTransformer (Zeid 2023).md",
+    "OtherRelatedPapers/KPE.md",
+    "Images/KPE_def.png",
+    "HandsPapers/(Cheng et al., 2023).md",
+    "Images/WildHands Framework.png",
+    "HandsPapers/HOLD (Fan et al., 2024).md",
+    "HandsPapers/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "OtherRelatedPapers",
+    "Images/Pasted image 20241003170804.png",
+    "HandsDatasets/HO3D-v3.md",
     "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
+    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021.md",
+    "HandsPapers/Photometric.md",
+    "HandsPapers/MobRecon (Chen et al., 2022).md",
+    "HandsPapers/MinimalHand (Zhou et al., 2020).md",
+    "HandsPapers/MANO.md",
+    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
+    "Images/Amodal.png",
+    "Images/Pasted image 20241003150319.png",
+    "Images/Pasted image 20241002211048.png",
+    "Images/Pasted image 20241002205403.png",
     "Images/Pasted image 20241002210854.png",
     "Images/Pasted image 20241002210339.png",
-    "Images/Pasted image 20241002205755.png",
-    "PointHMR (Kim & Gwon et al., 2023).md",
-    "Images/Pasted image 20241002151924.png",
-    "HandsPapers/JointTransformer (Zeid 2023).md",
-    "HandsPapers/HandOccNet (Park et al., 2022).md",
-    "HandsPapers/2.5D Representation (Iqbal et al., 2018).md",
-    "HandsPapers/MinimalHand (Zhou et al., 2020).md",
-    "HandsPapers/High DoF Visual Tracking (Rehg and Kanade, 1994).md",
-    "HandsPapers/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
-    "HandsPapers/DIGIT (Fan et al., 2021).md",
-    "HandsPapers/WildHands (Prakash et al., 2024).md",
-    "HandsPapers/MobRecon (Chen et al., 2022).md",
-    "HandsDatasets/DexYCB (Chao et al., 2021).md",
-    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
-    "MLBasics/Mesh-Graphormer (Lin et al., 2021).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "FastMETRO (Cho et al., 2022).md",
-    "MLBasics/Deformable DETR (Zhu et al., 2021).md",
-    "Images/Pasted image 20240929161031.png",
-    "Images/Pasted image 20240929160410.png",
-    "Images/Pasted image 20240929160209.png",
-    "Images/Pasted image 20240929111752.png",
-    "MLBasics/Swin-L Transformer.md",
-    "MLBasics/RegNet (Radosavovic et al., 2020).md",
-    "HandsDatasets/ARCTIC (Fan et al., 2023).md",
     "Images",
-    "HandsDatasets/AssemblyHands.md",
     "MLBasics",
-    "HandPoseBasics/TextDriven.md",
-    "HandPoseBasics/ECCV24.md",
-    "Welcome.md",
-    "create a link.md",
     "HandsDatasets",
     "HandsPapers",
-    "HandPoseBasics/HPEMethods.md",
     "HandPoseBasics"
   ]
 }
