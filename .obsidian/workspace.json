@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7ada60906c43464f",
+        "id": "936cd6a424690209",
         "type": "tabs",
         "children": [
           {
-            "id": "96a0a7e261217ad5",
+            "id": "cd8e4082f2e5a2cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HandsPapers/S2DHand (Liu et al., 2024).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "402c423027103cfc",
+            "id": "70d61cd42895ff0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/MVHM (Chen et al., 2021).md",
+                "file": "2 heads better than 1 (Ren et al., 2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FrankMo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 295.5
   },
   "right": {
     "id": "fbe5ddd7699ceae1",
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HandsPapers/S2DHand (Liu et al., 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HandsPapers/S2DHand (Liu et al., 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +130,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HandsPapers/S2DHand (Liu et al., 2024).md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "04eabf580072548d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,49 +159,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "897cb82a2a337973",
+  "active": "cd8e4082f2e5a2cf",
   "lastOpenFiles": [
-    "Images/Pasted image 20241008181649.png",
-    "Images/pseudo-label.png",
-    "HandsPapers/S2DHand (Liu et al., 2024).md",
-    "Images/S2DHands.png",
-    "OtherRelatedPapers/Sapiens.md",
-    "Images/Sapiens - Unique.png",
-    "Images/Sapiens-pretrain.png",
-    "Images/Sapiens on Human-5K.png",
-    "HandsPapers/MVHM (Chen et al., 2021).md",
-    "HandsPapers/HOLD (Fan et al., 2024).md",
-    "OtherRelatedPapers/exo-to-ego/4Diff (Cheng et al., 2024).md",
-    "HandsPapers/WildHands (Prakash et al., 2024).md",
-    "HandsPapers/SimpleHands (Zhou & Zhou et al., 2024).md",
-    "Images/Pasted image 20241007173144.png",
-    "Images/rotary cross-attention.png",
-    "HandPoseBasics/ECCV24.md",
-    "HandsDatasets/HO3D-v3.md",
-    "HandsDatasets/FreiHand (Zimmermann et al., 2019).md",
-    "HandsDatasets/DexYCB (Chao et al., 2021).md",
-    "HandsDatasets/AssemblyHands.md",
-    "HandsDatasets/ARCTIC (Fan et al., 2023).md",
-    "HandsDatasets",
+    "HandsPapers/Done/D-SCo (Fu et al., 2024).md",
+    "Pasted image 20241014173818.png",
+    "HandsPapers/Done/(Liu & Ren et al., 2024).md",
+    "2 heads better than 1 (Ren et al., 2023).md",
+    "HandsPapers/Done/HORSE (Prakash et al., 2024).md",
     "HandsPapers/What's in ur hands (Ye et al., 2022).md",
-    "HandsPapers/UnconstrainedHOR(Hasson et al., 2021).md",
-    "HandsPapers/Photometric.md",
-    "HandsPapers/MobRecon (Chen et al., 2022).md",
-    "HandsPapers/MinimalHand (Zhou et al., 2020).md",
-    "HandsPapers/MANO.md",
-    "HandsPapers/Learning R of HO (Hasson, et al., 2019).md",
-    "HandsPapers/JointTransformer (Zeid 2023).md",
-    "HandsPapers/Implicit for Grasp (Karunratanakul et al., 2020).md",
-    "HandsPapers/HShapeTransformer (Lin et al., 2021).md",
-    "HandsPapers/High DoF Visual Tracking (Rehg and Kanade, 1994).md",
-    "HandsPapers/HandOccNet (Park et al., 2022).md",
+    "HandsPapers/Done/SimpleHands (Zhou & Zhou et al., 2024).md",
+    "HandsPapers/Done/WildHands (Prakash et al., 2024).md",
+    "HandsPapers/InProcess/HandBooster (Xu et al., 2024).md",
+    "Images/Pasted image 20241014161300.png",
+    "Images/Pasted image 20241014150911.png",
+    "Images/Pasted image 20241014160520.png",
+    "Images/Pasted image 20241014151732.png",
+    "Images/Pasted image 20241014151658.png",
+    "Images/Pasted image 20241014151526.png",
+    "CV Seminar.md",
+    "OtherRelatedPapers/VISOR.md",
+    "Images/4Diff.png",
+    "Images/Sapiens on Human-5K.png",
+    "Images/Sapiens - Unique.png",
+    "OtherRelatedPapers/Sapiens.md",
+    "OtherRelatedPapers/Amodal Instance Segmentation (Li & Malik, 2016).md",
+    "OtherRelatedPapers/Hill-type model (Hill, 1938).md",
+    "OtherRelatedPapers/HMR2.0 (Goel et al., 2023).md",
+    "OtherRelatedPapers/KPE.md",
+    "OtherRelatedPapers/MyoHand (Caggiano et al., 2022).md",
+    "OtherRelatedPapers/PointHMR (Kim & Gwon et al., 2023).md",
+    "OtherRelatedPapers/X-fork&X-Seq.md",
+    "HandsPapers/Done/S2DHand (Liu et al., 2024).md",
+    "HandsPapers/Done/MANO.md",
+    "HandsPapers/Done/MS-MANO (Xie & Xu et al., 2024).md",
+    "HandsPapers/Done/MLPHand (Yang & Li et al., 2024).md",
+    "HandsPapers/Done/HOLD (Fan et al., 2024).md",
+    "HandsPapers/Done/HaMeR (Pavlakos et al., 2024).md",
+    "HandsPapers/Done/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "HandsPapers/InProcess",
+    "HandsPapers/Done",
+    "HandsDatasets",
     "HandsPapers",
     "OtherRelatedPapers/exo-to-ego",
     "OtherRelatedPapers",
     "MLBasics",
-    "Images/WildHands Framework.png",
-    "Images/Pasted image 20241003170804.png",
-    "Images/Pasted image 20241002210854.png",
     "Images",
     "HandPoseBasics"
   ]

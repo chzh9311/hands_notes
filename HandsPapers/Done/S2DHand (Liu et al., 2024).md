@@ -52,6 +52,3 @@ We have unlabelled dual-view data $\mathcal{D}=\{\mathbf{x}_i^{v1}, \mathbf{x}_i
 1. Largely exceeds baseline;
 2. SoTA in cross-dataset settings;
 3. RGR is useful when prediction errors are large (> 60mm)
-
-3. Prosthesis
-4. gloves
