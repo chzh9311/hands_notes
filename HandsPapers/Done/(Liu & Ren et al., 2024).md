@@ -8,7 +8,6 @@ Publisher: ECCV
 Code: https://github.com/ru1ven/C2F-SDF
 ---
 # Coarse-to-Fine Implicit Representation Learning  for 3D Hand-Object Reconstruction from a Single  RGB-D Image
-
 ## Motivation
 1. Implicit representations ([[AlignSDF]], [[Grasping Field]]) can capture objects with arbitrary topology at arbitrary resolutions;
 2. Existing SDF-based methods suffer from heavy computational budgets. e.g., [[Marching Cube]] involves a large number of points far from the surface.

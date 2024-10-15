@@ -11,20 +11,20 @@
             "id": "cd8e4082f2e5a2cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "70d61cd42895ff0d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2 heads better than 1 (Ren et al., 2023).md",
+                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "98c5dc67cf12d664",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FrankMo",
+                "query": "tag:#weakly-supervised  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md"
+              }
             }
           },
           {
@@ -140,13 +144,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "010bff76fc3e18da",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,19 +168,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "reference-map:Reference Map": false
     }
   },
   "active": "cd8e4082f2e5a2cf",
   "lastOpenFiles": [
-    "HandsPapers/Done/D-SCo (Fu et al., 2024).md",
-    "Pasted image 20241014173818.png",
+    "HOIDetectionExample.png",
+    "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
+    "HandsPapers/Done/(Zhang et al., 2024).md",
     "HandsPapers/Done/(Liu & Ren et al., 2024).md",
+    "HandsPapers/(Cheng et al., 2023).md",
+    "(Chen et al., 2021).md",
+    "HandsPapers/InProcess/ContactOpt (Grady et al., 2021).md",
+    "(Kulon et al., 2020).md",
+    "Pasted image 20241015154920.png",
+    "Pasted image 20241015154857.png",
+    "HandsPapers/Done/S2DHand (Liu et al., 2024).md",
     "2 heads better than 1 (Ren et al., 2023).md",
     "HandsPapers/Done/HORSE (Prakash et al., 2024).md",
-    "HandsPapers/What's in ur hands (Ye et al., 2022).md",
+    "HandsPapers/Done/D-SCo (Fu et al., 2024).md",
+    "HandsPapers/Done/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "HandsPapers/Done/HaMeR (Pavlakos et al., 2024).md",
+    "HandsPapers/Done/HOLD (Fan et al., 2024).md",
+    "HandsPapers/Done/MANO.md",
+    "HandsPapers/Done/MLPHand (Yang & Li et al., 2024).md",
+    "HandsPapers/Done/MS-MANO (Xie & Xu et al., 2024).md",
+    "HandsPapers/Done/Physics-Aware HOI Denoising (Luo et al., 2024).md",
     "HandsPapers/Done/SimpleHands (Zhou & Zhou et al., 2024).md",
     "HandsPapers/Done/WildHands (Prakash et al., 2024).md",
+    "Images/Pasted image 20241014173818.png",
+    "HandsPapers/What's in ur hands (Ye et al., 2022).md",
     "HandsPapers/InProcess/HandBooster (Xu et al., 2024).md",
     "Images/Pasted image 20241014161300.png",
     "Images/Pasted image 20241014150911.png",
@@ -178,24 +208,7 @@
     "Images/Pasted image 20241014151526.png",
     "CV Seminar.md",
     "OtherRelatedPapers/VISOR.md",
-    "Images/4Diff.png",
-    "Images/Sapiens on Human-5K.png",
-    "Images/Sapiens - Unique.png",
     "OtherRelatedPapers/Sapiens.md",
-    "OtherRelatedPapers/Amodal Instance Segmentation (Li & Malik, 2016).md",
-    "OtherRelatedPapers/Hill-type model (Hill, 1938).md",
-    "OtherRelatedPapers/HMR2.0 (Goel et al., 2023).md",
-    "OtherRelatedPapers/KPE.md",
-    "OtherRelatedPapers/MyoHand (Caggiano et al., 2022).md",
-    "OtherRelatedPapers/PointHMR (Kim & Gwon et al., 2023).md",
-    "OtherRelatedPapers/X-fork&X-Seq.md",
-    "HandsPapers/Done/S2DHand (Liu et al., 2024).md",
-    "HandsPapers/Done/MANO.md",
-    "HandsPapers/Done/MS-MANO (Xie & Xu et al., 2024).md",
-    "HandsPapers/Done/MLPHand (Yang & Li et al., 2024).md",
-    "HandsPapers/Done/HOLD (Fan et al., 2024).md",
-    "HandsPapers/Done/HaMeR (Pavlakos et al., 2024).md",
-    "HandsPapers/Done/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
     "HandsPapers/InProcess",
     "HandsPapers/Done",
     "HandsDatasets",

@@ -2,6 +2,7 @@
 tags:
   - Egocentric
   - HandPose
+  - weakly-supervised
 Institute: University of Tokyo
 Corresponding Author: Yoichi Sato
 Code: https://github.com/ut-vision/S2DHand

@@ -1,6 +1,7 @@
 ---
 tags:
   - Hand-Object
+  - weakly-supervised
 Institute: UIUC
 Corresponding Author: Saurabh Gupta
 Code: https://github.com/ap229997/wild-hoi/

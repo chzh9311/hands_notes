@@ -10,7 +10,7 @@ Publisher: CVPR
 aliases:
   - HInt
 ---
-## Reconstructing Hands in 3D with Transformers
+# Reconstructing Hands in 3D with Transformers
 ## Motivation
 Simple but high capacity models + huge amout of data => good performance. e.g., [[HMR (Kanazawa et al., 2018)]] & [[HMR2.0 (Goel et al., 2023)]]
 This paper takes this philosophy to Hand mesh recovery.
