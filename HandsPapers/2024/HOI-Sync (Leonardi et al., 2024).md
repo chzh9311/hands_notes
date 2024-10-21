@@ -26,3 +26,21 @@ Originated from [[Understanding human hands in contact at internet level]], the 
 
 ## HOI-Synth
 The authors get this benchmark by 3 egocentric benchmarks ([[Epic-Kitchens]], [[EgoHOS]], [[ENIGMA-51]]) + synthetic data.
+### Data generation pipeline
+1. select h-o grasp from [[DexGraspNet]], fit it to a human model, and integrate with the object mesh;
+2. select a random environment from [[HM3D]] dataset and place the above model in the env
+3. place a virtual camera at eye level to capture the scene at 1st view;
+
+## Experiment
+Base method: [[VISOR]] HOS
++ **Unsupervised Domain Adaptation**: + [[Adaptive Teacher]]; trained with labelled sync data and unlabelled real data;
++ **Real-Only**;
++ **Synthetic + Real**: no sync2real adaptation;
++ **Semi-Supervised Domain Adaptation (SSDA)**: train [[Adaptive Teacher]] with labelled synthetic data and unlabelled real data and a set of labelled real data.
++ **Fully-Supervised Domain Adaptation (FSDA)**: train [[Adaptive Teacher]] with labelled synthetic and real data.
+![[DomainAdaptExp.png]]
+## Conclusions
+1. There's still gap between synthetic and real data;
+2. Synthetic data cannot replace real data, but can improve real-data training results;
+3. When few labels are available for real data, synthetic data are more effective;
+4. In-domain data (generated with env and obj within the dataset domain) are more useful than out-domain data

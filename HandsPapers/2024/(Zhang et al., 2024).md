@@ -24,7 +24,7 @@ Use [[MANO]] for mesh representation
 2. **Hand functional anatomy**: 
 	1. MCP bending restricts its splaying (CorpusId:22071427)
 	2. PIP and DIP (CorpusId:68051515) bends with each other.
-		![[Pasted image 20241015154920.png]]
+		![[hand anatomical constraints.png]]
 3. **Hand Physics**: Non-penetration
 4. Shape regularization like in [[(Chen et al., 2021)]] & [[(Kulon et al., 2020)]]
 ### 2D uncertainty

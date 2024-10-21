@@ -18,7 +18,16 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1729001964928
+      "lastUpdate": 1729084535088
+    },
+    {
+      "id": 4,
+      "name": "Papers On Hand",
+      "lastUpdate": 1729084535911
+    },
+    {
+      "id": 2,
+      "name": "CV Classic"
     }
   ],
   "zoteroPort": "23119",

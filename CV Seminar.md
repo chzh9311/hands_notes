@@ -9,3 +9,10 @@ Presented by Han Hu
 
 ### How to find multi-dim representations?
 $$Task \overset{LLM}{\rightarrow} hidden state \overset{autoencoder}{\rightarrow}\overset{PCA}{\rightarrow} features$$
+
+* ALS: Adaptive Layer Sparsity for LLM
+* No Free Lunch Theorem
+	* There's a lower bound for running time $$T_{A, F} \geq f(n)$$
+* Bit2Bit: 1-Bit Quanta Video Reconstruction 
+* Neural Model Checking
+

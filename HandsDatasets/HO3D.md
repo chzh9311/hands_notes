@@ -1,7 +1,6 @@
 ---
 tags:
   - Dataset
-aliases:
-  - HO3D
+aliases: []
 ---
 # HOnnotate: A method for 3D annotation of hand and object poses

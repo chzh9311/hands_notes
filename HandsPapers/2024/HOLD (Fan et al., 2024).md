@@ -13,7 +13,7 @@ Publisher: CVPR
 	* [[ARCTIC (Fan et al., 2023)|ArcticNet-SF]]
 	* [[Photometric]]
 	* [[UnconstrainedHOR(Hasson et al., 2021)]]
-	* [[CPF (Yang et al., 2021]])
+	* [[CPF (Yang et al., 2021)]])
 * Other methods without predefined object templates lacks generalization.
 	* [[Learning R of HO (Hasson, et al., 2019)]]
 	* [[Implicit for Grasp (Karunratanakul et al., 2020)]]
@@ -73,7 +73,7 @@ Points from observation space are mapped back using inverse LBS.
 With the refined pose params, we can fully train the model.
 ## Experiments
 ### Datasets
-[[HO3D-v3]] for in-the-lab scenes; Captured a dataset themselves for in-the-wild scenes.
+[[HO3D]] for in-the-lab scenes; Captured a dataset themselves for in-the-wild scenes.
 $CD_h$: the hand-relative Chamfer Distance for the object.
 Results:
 ![[Pasted image 20241003170804.png]]

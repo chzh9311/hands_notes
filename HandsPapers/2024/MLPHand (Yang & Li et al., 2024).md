@@ -37,7 +37,7 @@ Joint-related features - concat -> bone-level geometry features $G_k^B$
 ## Experiment
 ### Datasets
 * [[DexYCB (Chao et al., 2021)|DexYCB-MV]];
-* [[HO3D-v3|HO3D-MV]];
+* [[HO3D|HO3D-MV]];
 * [[OakInk|OakInk-MV]]: 
 * [[FreiHand (Zimmermann et al., 2019)|FreiHand]].
 * Much smaller than [[POEM]].

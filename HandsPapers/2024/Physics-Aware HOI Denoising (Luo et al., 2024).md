@@ -51,7 +51,7 @@ This metrics is only calculated for points with small shifts.
 ## Experiments
 ### Datasets
 * [[GRAB]]
-* [[HO3D-v3]]
+* [[HO3D]]
 ### Metrics
 * MPJPE
 * IV (Intersection Volume)

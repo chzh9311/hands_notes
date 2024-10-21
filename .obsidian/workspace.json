@@ -4,27 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "936cd6a424690209",
+        "id": "ff95a270950a2558",
         "type": "tabs",
         "children": [
           {
-            "id": "cd8e4082f2e5a2cf",
+            "id": "a817a1f8adbc8649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
+                "file": "OtherRelatedPapers/MLBasics/Mamba.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Mamba"
             }
           },
           {
-            "id": "98c5dc67cf12d664",
+            "id": "4ec91fd6f181de3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Literature Analysis"
             }
           }
         ]
@@ -47,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#weakly-supervised  ",
+                "query": "3D reconstruction of objects in hands",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,14 +82,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 332.5
   },
   "right": {
     "id": "fbe5ddd7699ceae1",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
+                "file": "HandsPapers/InProcess/HOIC (Hu et al., 2024).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HOIC (Hu et al., 2024)"
             }
           },
           {
@@ -110,10 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
+                "file": "HandsPapers/InProcess/HOIC (Hu et al., 2024).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HOIC (Hu et al., 2024)"
             }
           },
           {
@@ -124,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md"
-              }
+                "file": "OtherRelatedPapers/MLBasics/Mamba.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mamba"
             }
           },
           {
@@ -142,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -150,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "reference-map-view",
-              "state": {}
+              "state": {},
+              "icon": "ReferenceMapIconScroll",
+              "title": "Reference Map"
             }
           }
         ],
@@ -172,50 +198,51 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "cd8e4082f2e5a2cf",
+  "active": "a817a1f8adbc8649",
   "lastOpenFiles": [
-    "HOIDetectionExample.png",
-    "HandsPapers/InProcess/HOI-Sync (Leonardi et al., 2024).md",
-    "HandsPapers/Done/(Zhang et al., 2024).md",
-    "HandsPapers/Done/(Liu & Ren et al., 2024).md",
-    "HandsPapers/(Cheng et al., 2023).md",
-    "(Chen et al., 2021).md",
-    "HandsPapers/InProcess/ContactOpt (Grady et al., 2021).md",
-    "(Kulon et al., 2020).md",
-    "Pasted image 20241015154920.png",
-    "Pasted image 20241015154857.png",
-    "HandsPapers/Done/S2DHand (Liu et al., 2024).md",
-    "2 heads better than 1 (Ren et al., 2023).md",
-    "HandsPapers/Done/HORSE (Prakash et al., 2024).md",
-    "HandsPapers/Done/D-SCo (Fu et al., 2024).md",
-    "HandsPapers/Done/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
-    "HandsPapers/Done/HaMeR (Pavlakos et al., 2024).md",
-    "HandsPapers/Done/HOLD (Fan et al., 2024).md",
-    "HandsPapers/Done/MANO.md",
-    "HandsPapers/Done/MLPHand (Yang & Li et al., 2024).md",
-    "HandsPapers/Done/MS-MANO (Xie & Xu et al., 2024).md",
-    "HandsPapers/Done/Physics-Aware HOI Denoising (Luo et al., 2024).md",
-    "HandsPapers/Done/SimpleHands (Zhou & Zhou et al., 2024).md",
-    "HandsPapers/Done/WildHands (Prakash et al., 2024).md",
-    "Images/Pasted image 20241014173818.png",
-    "HandsPapers/What's in ur hands (Ye et al., 2022).md",
-    "HandsPapers/InProcess/HandBooster (Xu et al., 2024).md",
-    "Images/Pasted image 20241014161300.png",
-    "Images/Pasted image 20241014150911.png",
-    "Images/Pasted image 20241014160520.png",
-    "Images/Pasted image 20241014151732.png",
-    "Images/Pasted image 20241014151658.png",
-    "Images/Pasted image 20241014151526.png",
+    "HandsPapers/2024/HaMeR (Pavlakos et al., 2024).md",
+    "Images/HAMER.png",
+    "HandsPapers/2024/HORSE (Prakash et al., 2024).md",
+    "HandsPapers/2024/HOLD (Fan et al., 2024).md",
+    "HandsPapers/2024/MLPHand (Yang & Li et al., 2024).md",
+    "HandsPapers/2024/MS-MANO (Xie & Xu et al., 2024).md",
+    "HandsPapers/2024/Physics-Aware HOI Denoising (Luo et al., 2024).md",
+    "HandsPapers/2024/S2DHand (Liu et al., 2024).md",
+    "HandsPapers/2024/SimpleHands (Zhou & Zhou et al., 2024).md",
+    "HandsPapers/2024/CoSHAND (Sudhakar et al., 2024).md",
+    "HandsPapers/2024/(Zhang et al., 2024).md",
+    "HandsPapers/2024/(Liu & Ren et al., 2024).md",
+    "HandPoseBasics/ECCV24.md",
+    "HandsPapers/MVHM (Chen et al., 2021).md",
+    "HandsPapers/2024/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
+    "HandsPapers/2024/HOIC (Hu et al., 2024).md",
+    "HandsPapers/2024/D-SCo (Fu et al., 2024).md",
+    "HandsPapers/2024/HOI-Sync (Leonardi et al., 2024).md",
+    "HandsPapers/2024/HandBooster (Xu et al., 2024).md",
+    "HandsPapers/2024/Hamba (Dong and Chharia et al., 2024).md",
+    "Literature Analysis.md",
+    "HandsPapers/2024/G-HOP (Ye et al., 2024).md",
+    "HandsPapers/2024/Text2HOI.md",
+    "HandsPapers/2024/WildHands (Prakash et al., 2024).md",
     "CV Seminar.md",
-    "OtherRelatedPapers/VISOR.md",
-    "OtherRelatedPapers/Sapiens.md",
+    "HandsPapers/InProcess/ContactOpt (Grady et al., 2021).md",
+    "Images/Text2HOI.png",
+    "Images/Hamba framework.png",
+    "OtherRelatedPapers/MLBasics/SSSM.png",
+    "Images/hand anatomical constraints.png",
+    "Images/HOIDetectionExample.png",
+    "Pasted image 20241015154857.png",
+    "OtherRelatedPapers/MLBasics/SSM.png",
+    "OtherRelatedPapers/MLBasics/mamba.png",
+    "Basic Structures",
+    "Images/DomainAdaptExp.png",
     "HandsPapers/InProcess",
-    "HandsPapers/Done",
+    "HandsPapers/2024",
     "HandsDatasets",
     "HandsPapers",
     "OtherRelatedPapers/exo-to-ego",
     "OtherRelatedPapers",
-    "MLBasics",
+    "OtherRelatedPapers/MLBasics",
     "Images",
     "HandPoseBasics"
   ]
