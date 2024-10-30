@@ -40,5 +40,5 @@ Joint-related features - concat -> bone-level geometry features $G_k^B$
 * [[HO3D|HO3D-MV]];
 * [[OakInk|OakInk-MV]]: 
 * [[FreiHand (Zimmermann et al., 2019)|FreiHand]].
-* Much smaller than [[POEM]].
+* Much smaller than [[POEM (Yang et al., 2023)]].
 ![[Pasted image 20241010165858.png]]

@@ -34,7 +34,7 @@ Select the sampled features to conduct Marching cubes.
 
 ### Experiments
 [[[DexYCB (Chao et al., 2021)]]] & [[ObMan]].
-Exceeds the previous sota [[gSDF]] on both datasets.
+Exceeds the previous sota [[gSDF (Chen et al., 2023)]] on both datasets.
 ![[Pasted image 20241014151526.png]]
 **ObMan dataset**
 ![[Pasted image 20241014151658.png]]

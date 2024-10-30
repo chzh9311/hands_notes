@@ -16,7 +16,7 @@ Publisher: CVPR
 > how to generate realistic & diverse hand-object interaction images with reliable annotations?
 
 Previous methods are categorised to render-based and generative-based. 
-* Render-based methods ([[GAN-HAND]], [[AffordPose]], and [[Artiboost]]) are prone to produce unrealistic images;
+* Render-based methods ([[GAN-HAND]], [[AffordPose (Jian et al., 2023)]], and [[Artiboost]]) are prone to produce unrealistic images;
 * Generative-based methods ([[HOGAN]] / [[AffordanceDiff]]) generate graspings on RGB images. but diversity is limited, and annotations are missing.
 ## Method
 ![[HandBooster.png]]

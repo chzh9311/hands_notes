@@ -1,0 +1,1 @@
+# The grasp taxonomy of human grasp types

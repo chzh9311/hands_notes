@@ -28,5 +28,5 @@ Use *Zero-shot* strategy to validate the generality:
 **Hand Decoder**: like in [[HMR (Kanazawa et al., 2018)]] but MANO version.
 ## Experiments
 ### Datasets
-2 in-the-lab datasets: [[ARCTIC (Fan et al., 2023)]] and [[AssemblyHands]];
+2 in-the-lab datasets: [[ARCTIC (Fan et al., 2023)]] and [[AssemblyHands (Ohkawa et al., 2023)]];
 2 in-the-wild datasets: [[Epic-Kitchens]] and [[Ego-Exo4D]].

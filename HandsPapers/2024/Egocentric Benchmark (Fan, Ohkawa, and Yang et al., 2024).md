@@ -18,7 +18,7 @@ Publisher: ECCV
 ## Contributions
 * A sota baseline 
 * A thorough analysis on 3D hand(-object) reconstruction tasks.
-## Methods for [[AssemblyHands]]
+## Methods for [[AssemblyHands (Ohkawa et al., 2023)]]
 > [!info]
 > AssemblyHands is mainly a Pose Estimation Dataset. The major metrics is MPJPE.
 
@@ -40,7 +40,7 @@ Publisher: ECCV
 * [[DIGIT (Fan et al., 2021)]]. Uses HRNet-W32 backbone.
 ## Experiments
 ### Datasets
-* [[AssemblyHands]]
+* [[AssemblyHands (Ohkawa et al., 2023)]]
 ![[Pasted image 20240929160209.png]]
 The two rows are in one line originally, split up due to page width limit. Each row, the 3 red colored blocks are the highest ones, and blue blocks are the lowest ones.
 * [[ARCTIC (Fan et al., 2023)]]

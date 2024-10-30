@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Institute": "multitext",
+    "Corresponding Author": "multitext",
+    "Year": "number"
+  }
+}

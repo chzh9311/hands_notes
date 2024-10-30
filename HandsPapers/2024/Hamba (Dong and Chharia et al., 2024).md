@@ -18,7 +18,7 @@ This method is based on [[Mamba|@guMambaLinearTimeSequence2024]].
 	Mamba cannot effectively capture local-relations (semantic), so combine it with graph
 *Graph-based bi-directional scan* (GBS) to scan image tokens -> fewer tokens needed
 
-Previous trial to apply Mamba to 2D images: [[VMamba|@liuVMambaVisualState2024]] proposes VSS Block, which replaces sequence scanning with 2D scanning: SS2D
+Previous trial to apply Mamba to 2D images: [[VMamba (Liu et al., 2024)|@liuVMambaVisualState2024]] proposes VSS Block, which replaces sequence scanning with 2D scanning: SS2D
 
 ## Method
 The overall architecture:

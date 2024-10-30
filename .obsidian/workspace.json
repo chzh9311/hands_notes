@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a817a1f8adbc8649",
+            "id": "6fc5b170fe4fcca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OtherRelatedPapers/MLBasics/Mamba.md",
+                "file": "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mamba"
+              "title": "HaMuCo (Zheng et al., 2023)"
             }
           },
           {
-            "id": "4ec91fd6f181de3c",
+            "id": "605b36323322b52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Analysis.md",
+                "file": "HandsPapers/2023/gSDF (Chen et al., 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Analysis"
+              "title": "gSDF (Chen et al., 2023)"
+            }
+          },
+          {
+            "id": "9593d0a6a5f9fcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summaries/Experiments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Experiments"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3D reconstruction of objects in hands",
+                "query": "tag:#Representation  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200
   },
   "right": {
     "id": "fbe5ddd7699ceae1",
@@ -184,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,52 +213,52 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "a817a1f8adbc8649",
+  "active": "9593d0a6a5f9fcca",
   "lastOpenFiles": [
-    "HandsPapers/2024/HaMeR (Pavlakos et al., 2024).md",
-    "Images/HAMER.png",
-    "HandsPapers/2024/HORSE (Prakash et al., 2024).md",
-    "HandsPapers/2024/HOLD (Fan et al., 2024).md",
-    "HandsPapers/2024/MLPHand (Yang & Li et al., 2024).md",
-    "HandsPapers/2024/MS-MANO (Xie & Xu et al., 2024).md",
-    "HandsPapers/2024/Physics-Aware HOI Denoising (Luo et al., 2024).md",
-    "HandsPapers/2024/S2DHand (Liu et al., 2024).md",
-    "HandsPapers/2024/SimpleHands (Zhou & Zhou et al., 2024).md",
-    "HandsPapers/2024/CoSHAND (Sudhakar et al., 2024).md",
-    "HandsPapers/2024/(Zhang et al., 2024).md",
-    "HandsPapers/2024/(Liu & Ren et al., 2024).md",
-    "HandPoseBasics/ECCV24.md",
-    "HandsPapers/MVHM (Chen et al., 2021).md",
-    "HandsPapers/2024/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
-    "HandsPapers/2024/HOIC (Hu et al., 2024).md",
-    "HandsPapers/2024/D-SCo (Fu et al., 2024).md",
-    "HandsPapers/2024/HOI-Sync (Leonardi et al., 2024).md",
-    "HandsPapers/2024/HandBooster (Xu et al., 2024).md",
-    "HandsPapers/2024/Hamba (Dong and Chharia et al., 2024).md",
-    "Literature Analysis.md",
-    "HandsPapers/2024/G-HOP (Ye et al., 2024).md",
-    "HandsPapers/2024/Text2HOI.md",
-    "HandsPapers/2024/WildHands (Prakash et al., 2024).md",
-    "CV Seminar.md",
-    "HandsPapers/InProcess/ContactOpt (Grady et al., 2021).md",
-    "Images/Text2HOI.png",
-    "Images/Hamba framework.png",
-    "OtherRelatedPapers/MLBasics/SSSM.png",
-    "Images/hand anatomical constraints.png",
-    "Images/HOIDetectionExample.png",
-    "Pasted image 20241015154857.png",
-    "OtherRelatedPapers/MLBasics/SSM.png",
-    "OtherRelatedPapers/MLBasics/mamba.png",
-    "Basic Structures",
-    "Images/DomainAdaptExp.png",
-    "HandsPapers/InProcess",
-    "HandsPapers/2024",
-    "HandsDatasets",
-    "HandsPapers",
-    "OtherRelatedPapers/exo-to-ego",
-    "OtherRelatedPapers",
-    "OtherRelatedPapers/MLBasics",
-    "Images",
-    "HandPoseBasics"
+    "HandsPapers/2023/gSDF (Chen et al., 2023).md",
+    "Pasted image 20241030181944.png",
+    "Summaries/2023Papers.md",
+    "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
+    "Summaries/Experiments.md",
+    "HandsDatasets/F6309000",
+    "HandsDatasets/25FF8000",
+    "HandsDatasets/5DBF8000",
+    "HandsDatasets/7F088000",
+    "HandsDatasets/E9078000",
+    "HandsDatasets/0BF68000",
+    "HandsDatasets/C5B68000",
+    "HandsDatasets/FE868000",
+    "HandsDatasets/CB718000",
+    "HandsDatasets/A6618000",
+    "HandsDatasets/RenderIH.md",
+    "HandsPapers/2023/Deformer (Fu et al., 2023).md",
+    "Summaries/Literature Analysis.md",
+    "Summaries/CV Seminar.md",
+    "HandsPapers/IMOS.md",
+    "Images/gSDF-framework.png",
+    "HandsPapers/2023/CHORD (Li et al., 2023).md",
+    "HandsPapers/2023/PHRIT (Huang, 2023).md",
+    "HandsPapers/2023/Hand Avatar (Chen et al., 2023).md",
+    "HandsPapers/2023/Handy (Potamias et al., 2023).md",
+    "HandsPapers/2023/ACR (Yu et al., 2023).md",
+    "HandsPapers/2023/BlurHandNet (Oh & Park et al., 2023).md",
+    "HandsPapers/2023/HTT (Wen et al., 2023).md",
+    "HandsDatasets/AssemblyHands (Ohkawa et al., 2023).md",
+    "HandsDatasets/HOGraspNet (Cho et al., 2024).md",
+    "OtherRelatedPapers/HMR (Kanazawa et al., 2018).md",
+    "HandsDatasets/HO3D.md",
+    "HandsDatasets/AffordPose (Jian et al., 2023).md",
+    "HandsPapers/2023/A2J-Transformer (Jiang et al., 2023).md",
+    "HandsPapers/2023/Cross-Domain 3D Hand Pose Estimation with Dual Modalities (Lin & Yang, 2023).md",
+    "HandsPapers/2023/In-Hand Scanning (Hampali et al., 2023).md",
+    "HandsPapers/2024/HOIDiffusion (Zhang and Fu, 2024).md",
+    "Images/Field-Guided Pose Regression.png",
+    "Images/Pasted image 20241025112243.png",
+    "Images/Pasted image 20241024195057.png",
+    "Images/HOIDiffusion.png",
+    "Images/SDF_learning.png",
+    "Images/VSS vs. Mamba.png",
+    "Images/Cross-scan.png",
+    "Images/HandDAGT.png"
   ]
 }

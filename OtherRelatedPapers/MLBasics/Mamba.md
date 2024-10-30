@@ -18,7 +18,7 @@ Advantages are:
 ## How is Mamba Designed?
 Foundation model backbones usually include two components:
 1. Communication between tokens; (attention in transformer)
-2. Computation within a token. (MLP is transformer)
+2. Computation within a token. (MLP in transformer)
 Mamba is designed by improving Transformer on these two operations. Mamba replace the attention module with SSM (inspired by Control Theory)
 ![[mamba.png]]
 >[!note] State Space Model
