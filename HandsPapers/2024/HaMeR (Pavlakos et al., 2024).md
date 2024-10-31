@@ -29,7 +29,7 @@ plus, discriminators $D_k$ for hand shape $\beta$, hand pose $\theta$, and hand 
 ### Training
 The dataset is the consolidation of multiple datasets, including: [[FreiHand (Zimmermann et al., 2019)]], [[HO3D|HO3D]], [[MTC]], [[RHD]], [[InterHand2.6M]], [[H2O3D]], [[DexYCB (Chao et al., 2021)]], [[COCO WholeBody]], [[Halpe]], & [[MPII NZSL]]. Totally 2.7M training examples.
 ## Dataset: HInt (Hand Interactions in the wild)
-* Frames are sources from [[Hands23]], [[Epic-Kitchens]], and [[Ego4D]]
+* Frames are sources from [[Hands23]], [[Epic-Kitchens]], and [[Ego4D (Grauman et al., 2021)]]
 * Initialize the annotation procedure with an existing keypoint detection model (from [MMPose](https://github.com/open-mmlab/mmpose)).
 * Annotation consistency check
 ## Experiments

@@ -52,3 +52,4 @@
 * [[AssemblyHands (Ohkawa et al., 2023)]]
 * [[RenderIH]]
 * [[BlurHandNet (Oh & Park et al., 2023)]]
+* [[ShowMe (Swamy et al., 2023)]]

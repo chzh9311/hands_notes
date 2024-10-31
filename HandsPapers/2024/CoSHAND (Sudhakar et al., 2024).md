@@ -2,9 +2,11 @@
 tags:
   - ImageSynthesis
   - Hand-Object
-Institute: Columbia University
-Corresponding Author: Richard Zemel
-Year: "2024"
+Institute:
+  - Columbia University
+Corresponding Author:
+  - Richard Zemel
+Year: 2024
 Publisher: ECCV
 ---
 # Controlling the World by the Sleight of Hand
