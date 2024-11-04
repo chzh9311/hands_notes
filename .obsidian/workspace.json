@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2024/HOISDF (Qi et al., 2024).md",
+                "file": "CGNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOISDF (Qi et al., 2024)"
+              "title": "CGNotes"
             }
           },
           {
-            "id": "e8018f4a9fc3cac6",
+            "id": "be33f02ced59662a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ShowMe (Swamy et al., 2023).md",
+                "file": "Summaries/CV Seminar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ShowMe (Swamy et al., 2023)"
+              "title": "CV Seminar"
             }
           },
           {
@@ -229,6 +229,17 @@
   },
   "active": "605b36323322b52e",
   "lastOpenFiles": [
+    "Pasted image 20241104194047.png",
+    "Rasterization.png",
+    "CGNotes.md",
+    "HandsPapers/2023/Hand Avatar (Chen et al., 2023).md",
+    "LISA (Corona et al., 2022).md",
+    "Summaries/CV Seminar.md",
+    "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
+    "ShowMe (Swamy et al., 2023).md",
+    "Summaries/Experiments.md",
+    "Summaries/2023Papers.md",
+    "HandsPapers/2024/HOISDF (Qi et al., 2024).md",
     "HandsDatasets/FBA19100",
     "HandsPapers/2024/HOIC (Hu et al., 2024).md",
     "HandsPapers/2024/HOIDiffusion (Zhang and Fu, 2024).md",
@@ -236,9 +247,6 @@
     "HandsPapers/2024/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
     "HandsPapers/2024/D-SCo (Fu et al., 2024).md",
     "HandsPapers/2024/(Liu & Ren et al., 2024).md",
-    "Summaries/2023Papers.md",
-    "Summaries/Experiments.md",
-    "ShowMe (Swamy et al., 2023).md",
     "HandsDatasets/ACC25000",
     "HandsDatasets/26725000",
     "HandsDatasets/A3525000",
@@ -248,32 +256,24 @@
     "HandsDatasets/BC6F4000",
     "HandsDatasets/05FE4000",
     "HandsDatasets/0CCE4000",
-    "HandsDatasets/F85E4000",
     "HandsPapers/2024/(Zhang et al., 2024).md",
     "HandsDatasets/Ego4D (Grauman et al., 2021).md",
-    "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
     "HandsPapers/2024/AttentionHand (Park et al., 2024).md",
     "HandsPapers/2024/CoSHAND (Sudhakar et al., 2024).md",
     "HandsPapers/2024/HOI-Sync (Leonardi et al., 2024).md",
     "HandsDatasets/BlurHandNet (Oh & Park et al., 2023).md",
     "HandsDatasets/RenderIH.md",
     "HandsPapers/2023/gSDF (Chen et al., 2023).md",
-    "Pasted image 20241030181944.png",
+    "Images/Pasted image 20241030181944.png",
     "HandsPapers/2023/Deformer (Fu et al., 2023).md",
     "Summaries/Literature Analysis.md",
-    "Summaries/CV Seminar.md",
-    "HandsPapers/IMOS.md",
     "Images/gSDF-framework.png",
-    "HandsPapers/2023/CHORD (Li et al., 2023).md",
-    "HandsPapers/2023/PHRIT (Huang, 2023).md",
-    "HandsPapers/2023/Hand Avatar (Chen et al., 2023).md",
     "Images/Field-Guided Pose Regression.png",
     "Images/Pasted image 20241025112243.png",
     "Images/Pasted image 20241024195057.png",
     "Images/HOIDiffusion.png",
     "Images/SDF_learning.png",
     "Images/VSS vs. Mamba.png",
-    "Images/Cross-scan.png",
-    "Images/HandDAGT.png"
+    "Images/Cross-scan.png"
   ]
 }

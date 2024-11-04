@@ -1,12 +1,14 @@
 ---
 tags:
   - Hand-Object
-Institute: EPFL
-Corresponding Author: Alexander Mathis
+Institute:
+  - EPFL
+Corresponding Author:
+  - Alexander Mathis
 Code: https://github.com/amathislab/HOISDF
 aliases:
   - qiHOISDFConstraining3D2024
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 ---
 # HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields
