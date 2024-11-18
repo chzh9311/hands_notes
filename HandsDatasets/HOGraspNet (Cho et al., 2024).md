@@ -26,5 +26,5 @@ Contains:
 * 1.5M RGBD frames
 * 4 viewpoints
 * Annotations for 3D meshes, 3D keypoints, contact, grasp labels.
-	* Hand meshes are labelled by [[MANO]] and [[HALO|@karunratanakulSkeletonDrivenNeuralOccupancy2021]]
+	* Hand meshes are labelled by [[MANO]] and [[HALO (Karunratanakul et al., 2021)|@karunratanakulSkeletonDrivenNeuralOccupancy2021]]
 ![[Pasted image 20241025112243.png]]

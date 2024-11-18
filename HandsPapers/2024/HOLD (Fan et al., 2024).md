@@ -1,10 +1,15 @@
 ---
 tags:
   - Hand-Object
-Institute: ETH, MPI
-Corresponding Author: M. J. Black, Otmar Hilliges
+  - RadianceField
+Institute:
+  - ETH
+  - MPI
+Corresponding Author:
+  - M. J. Black
+  - Otmar Hilliges
 Code: https://github.com/zc-alexfan/hold
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 ---
 # HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video

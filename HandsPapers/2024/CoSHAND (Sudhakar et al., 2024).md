@@ -8,6 +8,8 @@ Corresponding Author:
   - Richard Zemel
 Year: 2024
 Publisher: ECCV
+aliases:
+  - "@sudhakarControllingWorldSleight"
 ---
 # Controlling the World by the Sleight of Hand
 A novel task

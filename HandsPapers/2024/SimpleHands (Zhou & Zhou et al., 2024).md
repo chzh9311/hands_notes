@@ -2,11 +2,15 @@
 tags:
   - HandMesh
   - LightWeight
-Institute: Jiiov Technology
-Corresponding Author: Jiajun Liang
+Institute:
+  - Jiiov Technology
+Corresponding Author:
+  - Jiajun Liang
 Code: http://simplehand.github.io
-Year: "2024"
+Year: 2024
 Publisher: CVPR
+aliases:
+  - zhouSimpleBaselineEfficient2024
 ---
 # A Simple Baseline for Efficient Hand Mesh Reconstruction (CVPR 2024)
 

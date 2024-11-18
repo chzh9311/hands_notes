@@ -3,8 +3,11 @@ tags:
   - HandPose
   - Egocentric
   - DNN/Transformer
-Institute: UHK, Microsoft
-Corresponding Author: Wenping Wang
+Institute:
+  - UHK
+  - Microsoft
+Corresponding Author:
+  - Wenping Wang
 Code: " https://github.com/\rfylwen/HTT"
 aliases:
   - "@wenHierarchicalTemporalTransformer2023"

@@ -1,11 +1,18 @@
 ---
 tags:
   - HandMesh
-Institute: CUHK, UESTC
-Corresponding Author: Chi-Wing Fu
+  - DNN/Diffusion
+  - DataAugmentation
+Institute:
+  - CUHK
+  - Univ of Electronic Sci & Tech of China
+Corresponding Author:
+  - Chi-Wing Fu
 Code: https://github.com/hxwork/HandBooster_Pytorch
-Year: "2024"
+Year: 2024
 Publisher: CVPR
+aliases:
+  - "@xuHandBoosterBoosting3D2024"
 ---
 # HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions
 

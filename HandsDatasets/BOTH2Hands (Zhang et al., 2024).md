@@ -3,9 +3,11 @@ tags:
   - HandMesh
   - Dataset
   - textDriven
-Institute: ShanghaiTech Univ
-Corresponding Author: Lan Xu
-Year: "2024"
+Institute:
+  - ShanghaiTech Univ
+Corresponding Author:
+  - Lan Xu
+Year: 2024
 Publisher: CVPR
 Code: https://github.com/Godheritage/BOTH2Hands
 aliases:

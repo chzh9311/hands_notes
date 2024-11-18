@@ -1,8 +1,7 @@
-# Hand Pose & Shape Estimation
+# RGBD-based Hand Pose & Shape Estimation
 ## Hand Pose
 * [[A2J-Transformer (Jiang et al., 2023)]]
 * [[Cross-Domain 3D Hand Pose Estimation with Dual Modalities (Lin & Yang, 2023)]]
-* [[HTT (Wen et al., 2023)]]
 * [[NVF (Huang et al., 2023)]]
 * [[HaMuCo (Zheng et al., 2023)]]
 * [[HandR2N2 (Cheng et al., 2023)]]
@@ -23,17 +22,21 @@
 ## Representation
 * [[Hand Avatar (Chen et al., 2023)]]
 * [[Handy (Potamias et al., 2023)]]
-* [[PHRIT (Huang, 2023)]]
+* [[PHRIT (Huang and Chen, 2023)]]
 * [[gSDF (Chen et al., 2023)]]
 ## Hand Object
-* [[HFL-Net (Lin et al., 202]]
-* [[In-Hand Scanning (Hampali et al., 2023)]]
-* [[VTacO (Xu & Yu et al., 2023)]]
+* [[HFL-Net (Lin et al., 2023)]]
 * [[CHORD (Li et al., 2023)]]
-* [[DiffGuided R of Everyday HO (Ye et al., 2023)]]
-* [[Hyperbolic Attn (Leng et al., 2023)]]
+* [[DHANet (Leng et al., 2023)]]
+* [[RUFormer (Xie et al., 2023)]]
+* [[In-Hand Scanning (Hampali et al., 2023)]]
+# New Sensors
+## Egocentric
+* [[DiffHOI (Ye et al., 2023)]]
 * [[EgoPCA (Xu et al., 2023)]]
-* [[Nonrigid Object Contact Estimation With Regional Unwrapping Transformer]]
+* [[HTT (Wen et al., 2023)]]
+## Tactile Sensor
+* [[VTacO (Xu & Yu et al., 2023)]]
 # Synthesis
 ## Motion Synthesis
 * [[Affordance Diffusion]]
@@ -53,3 +56,4 @@
 * [[RenderIH]]
 * [[BlurHandNet (Oh & Park et al., 2023)]]
 * [[ShowMe (Swamy et al., 2023)]]
+* [[HMDO (Xie et al., 2023)]]

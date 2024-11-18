@@ -1,11 +1,17 @@
 ---
 tags:
-  - weakly-supervised
   - HandMesh
-Institute: Rensselaer Polytechnic Institute, IBM
-Corresponding Author: Qiang Ji
-Year: "2024"
+  - physics
+  - weakly-supervised
+Institute:
+  - Rensselaer Polytechnic Institute
+  - IBM
+Corresponding Author:
+  - Qiang Ji
+Year: 2024
 Publisher: ECCV
+aliases:
+  - zhangWeaklySupervised3DHand2024
 ---
 # Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance
 ## Motivation

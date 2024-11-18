@@ -2,10 +2,12 @@
 tags:
   - Hand-Object
   - physics
-Institute: Tsinghua Univ.
-Corresponding Author: Feng Xu
+Institute:
+  - Tsinghua Univ.
+Corresponding Author:
+  - Feng Xu
 Code: https://github.com/hu-hy17/HOIC
-Year: "2024"
+Year: 2024
 Publisher: SIGGRAPH
 ---
 # Hand-Object Interaction Controller (HOIC): Deep Reinforcement Learning for Reconstructing Interactions with Physics

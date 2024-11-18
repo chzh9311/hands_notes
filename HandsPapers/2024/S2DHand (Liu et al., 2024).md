@@ -3,11 +3,15 @@ tags:
   - Egocentric
   - HandPose
   - weakly-supervised
-Institute: University of Tokyo
-Corresponding Author: Yoichi Sato
+Institute:
+  - Univ of Tokyo
+Corresponding Author:
+  - Yoichi Sato
 Code: https://github.com/ut-vision/S2DHand
-Year: "2024"
+Year: 2024
 Publisher: CVPR
+aliases:
+  - "@chaText2HOITextguided3D2024"
 ---
 # Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 ## Motivation

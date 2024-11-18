@@ -2,8 +2,11 @@
 tags:
   - HandMesh
   - Multi-view
-Institute: SJTU, Shanghai Zhi Qi Institute
-Corresponding Author: Cewu Lu
+Institute:
+  - SJTU
+  - Shanghai Qi Zhi Institute
+Corresponding Author:
+  - Cewu Lu
 Code: github.com/lixiny/POEM
 aliases:
   - "@yangPOEMReconstructingHand2023"

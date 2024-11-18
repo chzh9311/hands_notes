@@ -4,10 +4,13 @@ tags:
   - Egocentric
   - DomainAdapt
   - Dataset
-Institute: University of Catania, Next Vision
-Corresponding Author: Giovanni Maria Farinella
+Institute:
+  - Univ of Catania
+  - Next Vision
+Corresponding Author:
+  - Giovanni Maria Farinella
 Code: https://fpv-iplab.github.io/HOI-Synth/
-Year: "2024"
+Year: 2024
 Publisher: ECCV
 ---
 # Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?

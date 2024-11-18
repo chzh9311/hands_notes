@@ -2,10 +2,15 @@
 tags:
   - textDriven
   - Hand-Object
-Institute: UNIST, KETI, Adobe
-Corresponding Author: Seungryul Baek
+  - Contact
+Institute:
+  - UNIST
+  - KETI
+  - Adobe
+Corresponding Author:
+  - Seungryul Baek
 Code: https://github.com/JunukCha/Text2HOI
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 ---
 # Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction

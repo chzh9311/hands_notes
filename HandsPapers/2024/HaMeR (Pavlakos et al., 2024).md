@@ -2,13 +2,19 @@
 tags:
   - HandMesh
   - DNN/Transformer
-Institute: UT Austin, Uof Michigan, UCB, NYU.
-Corresponding Author: Jitendra Malik
+Institute:
+  - UT Austin
+  - Univ of Michigan
+  - UC Berkeley
+  - NYU
+Corresponding Author:
+  - Jitendra Malik
 Code: https://github.com/geopavlakos/hamer
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 aliases:
   - HInt
+  - "@pavlakosReconstructingHands3D2024"
 ---
 # Reconstructing Hands in 3D with Transformers
 ## Motivation

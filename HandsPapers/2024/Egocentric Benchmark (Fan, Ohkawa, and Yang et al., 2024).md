@@ -3,9 +3,26 @@ tags:
   - Egocentric
   - Hand-Object
   - HandPose
-Institute: ETH, MPI, Meta, etc.
-Corresponding Author: Jiajun Liang, Otmar Hilliges, Hyung Jin Chang, etc.
-Year: "2024"
+Institute:
+  - ETH
+  - MPI
+  - Univ of Tokyo
+  - Communication Univ of China
+  - Jiiov Technology
+  - ByteDance
+  - Fujitsu R&D Centre
+  - Beihang Univ
+  - RWTH Aachen Univ
+  - UNIST
+  - UIUC
+  - Meta
+  - Univ of Birmingham
+  - NUS
+Corresponding Author:
+  - Jiajun Liang
+  - Otmar Hilliges
+  - Hyung Jin Chang
+Year: 2024
 Publisher: ECCV
 ---
 # Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects (ECCV'24)

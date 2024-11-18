@@ -3,8 +3,12 @@ tags:
   - Hand-Object
   - MotionSynthesis
   - ArticulatedObject
-Institute: Tsinghua Univ, Shanghai AILab, Shanghai Qi Zhi Institute
-Corresponding Author: Li Yi
+Institute:
+  - Tsinghua Univ.
+  - Shanghai Qi Zhi Institute
+  - Shanghai AILab
+Corresponding Author:
+  - Li Yi
 Code: https://cams-hoi.github.io/
 Year: "2023"
 Publisher: CVPR

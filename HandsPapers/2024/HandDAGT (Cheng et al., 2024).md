@@ -2,11 +2,16 @@
 tags:
   - HandPose
   - DNN/Transformer
-Institute: Sungkyunkwan Univ.
-Corresponding Author: Jong Hwan Ko
+Institute:
+  - Sungkyunkwan Univ.
+  - Alibaba
+Corresponding Author:
+  - Jong Hwan Ko
 Code: https://github.com/cwc1260/HandDAGT
-Year: "2024"
+Year: 2024
 Publisher: ECCV
+aliases:
+  - "@chengHandDAGTDenoisingAdaptive2024"
 ---
 # HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation
 ## Motivation

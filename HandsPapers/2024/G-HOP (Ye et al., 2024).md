@@ -1,10 +1,14 @@
 ---
 tags:
   - Hand-Object
-Institute: CMU, Meta
-Corresponding Author: Shubham Tulsiani
+  - DNN/Diffusion
+Institute:
+  - CMU
+  - Meta
+Corresponding Author:
+  - Shubham Tulsiani
 Project: https://judyye.github.io/ghop-www/
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 aliases:
   - "@yeGHOPGenerativeHandObject2024a"
@@ -24,18 +28,17 @@ Previous works ([[Guided Motion Diffusion|@karunratanakulGuidedMotionDiffusion20
 -> pose-parameterized distance field in 3D grid indicating the distance of each grid to each joint -> some kind of distance field, so it's better fit with with object SDF
 ### Learning the distribution
 Use text embedding + noisy 3D interaction grid $\mathbf{x}_i$ -> trained to restore a clean grid.
-
 ### Generation
 Use Score Distillation Sampling ([[DreamFusion|@pooleDreamFusionText3DUsing2022]]) to approximate log-probability gradients
 
 **To reconstruct interaction clips:**
 **Render**:
-Like [[DiffHOI|@yeDiffusionGuidedReconstructionEveryday2023]], decomposes the HOI scene into 3 parts:
+Like [[DiffHOI (Ye et al., 2023)|@yeDiffusionGuidedReconstructionEveryday2023a]], decomposes the HOI scene into 3 parts:
 1. time-persistent object SDF;
 2. time-varying hand pose;
 3. relative poses between them
 **Reconstruction**:
-Unlike [[DiffHOI]], use 3D priors instead of 2D.
+Unlike [[DiffHOI (Ye et al., 2023)]], use 3D priors instead of 2D.
 
 **To synthesize grasps**
 From object mesh to synthesize human grasps. equals to sample from the distribution $p(\mathbf{H | O, C})$. The Joint distribution $p(\textbf{O}, \textbf{H}|\textbf{C})$ cannot be directly inferred to the conditional distribution. So the authors optimize at *test time* and constraining the object shape to the given shape, then rank all grasps and take the best ones.
@@ -46,4 +49,4 @@ On [[HOI4D]], an egocentric dataset recording people interacting with different 
 Baselines:
 * [[iHOI]]
 * [[HHOR]]
-* [[DiffHOI]]
+* [[DiffHOI (Ye et al., 2023)]]

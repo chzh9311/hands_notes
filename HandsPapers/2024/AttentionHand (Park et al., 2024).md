@@ -2,10 +2,12 @@
 tags:
   - ImageSynthesis
   - HandMesh
-Institute: Sogang Univ.
-Corresponding Author: Suk-Ju Kang
+Institute:
+  - Sogang Univ.
+Corresponding Author:
+  - Suk-Ju Kang
 Code: https://github.com/redorangeyellowy/AttentionHand
-Year: "2024"
+Year: 2024
 Publisher: ECCV
 ---
 # AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild

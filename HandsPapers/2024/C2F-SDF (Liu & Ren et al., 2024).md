@@ -1,11 +1,16 @@
 ---
 tags:
   - Hand-Object
-Institute: Beijing University of Posts and Telecommunications
-Corresponding Author: Zirui Zhuang
-Year: "2024"
+  - ImplicitRepresentation
+Institute:
+  - Beijing Univ of Posts and Telecommunications
+Corresponding Author:
+  - Zirui Zhuang
+Year: 2024
 Publisher: ECCV
 Code: https://github.com/ru1ven/C2F-SDF
+aliases:
+  - "@liuCoarseFineImplicitRepresentation"
 ---
 # Coarse-to-Fine Implicit Representation Learning  for 3D Hand-Object Reconstruction from a Single  RGB-D Image
 ## Motivation

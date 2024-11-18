@@ -1,11 +1,13 @@
 ---
 tags:
   - HandPose
-  - dynamics
-Institute: Southeast Univ, SJTU
-Corresponding Author: Zhenjun Yu, Cewu Lu
+  - physics
+Institute:
+  - Southeast Univ, SJTU
+Corresponding Author:
+  - Zhenjun Yu, Cewu Lu
 Code: https://github.com/panoanx/ms-mano-unity
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 ---
 # MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints

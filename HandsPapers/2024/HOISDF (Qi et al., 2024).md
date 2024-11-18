@@ -1,6 +1,7 @@
 ---
 tags:
   - Hand-Object
+  - ImplicitRepresentation
 Institute:
   - EPFL
 Corresponding Author:

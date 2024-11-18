@@ -2,10 +2,12 @@
 tags:
   - Hand-Object
   - weakly-supervised
-Institute: UIUC
-Corresponding Author: Saurabh Gupta
+Institute:
+  - UIUC
+Corresponding Author:
+  - Saurabh Gupta
 Code: https://github.com/ap229997/wild-hoi/
-Year: "2024"
+Year: 2024
 Publisher: ECCV
 ---
 # 3D Reconstruction of Objects in Hands without Real World 3D Supervision

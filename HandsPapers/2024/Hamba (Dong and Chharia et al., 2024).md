@@ -2,10 +2,12 @@
 tags:
   - HandMesh
   - Mamba
-Institute: CMU
-Corresponding Author: Fernando De la Torre
+Institute:
+  - CMU
+Corresponding Author:
+  - Fernando De la Torre
 Code: 
-Year: "2024"
+Year: 2024
 Publisher: NeurIPS
 aliases:
   - "@dongHambaSingleview3D2024a"

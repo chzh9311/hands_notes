@@ -2,11 +2,20 @@
 tags:
   - HandMesh
   - Multi-view
-Institute: Beihang, Chinese Academy of Science, etc.
-Corresponding Author: Zhaoxin Fan
+Institute:
+  - Beihang Univ
+  - Beijing Academy of Blockchain & Edge Computing
+  - Chinese Academy of Science
+  - Southern Univ of Sci & Tech
+  - MBZUAI
+  - Psyche AI
+Corresponding Author:
+  - Zhaoxin Fan
 Code: https://github.com/jackyyang9/MLPHand
-Year: "2024"
+Year: 2024
 Publisher: ECCV
+aliases:
+  - "@yangMLPHandRealTime"
 ---
 # MLPHand: Real Time Multi-View 3D Hand  Reconstruction via MLP Modeling
 ## Motivation

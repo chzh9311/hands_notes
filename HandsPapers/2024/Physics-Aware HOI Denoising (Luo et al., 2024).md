@@ -1,11 +1,17 @@
 ---
 tags:
   - Hand-Object
-Institute: Tsinghua Univ, Shanghai AILab
-Corresponding Author: Li Yi
+  - physics
+Institute:
+  - Tsinghua Univ.
+  - Shanghai AILab
+Corresponding Author:
+  - Li Yi
 Code: N/A
-Year: "2024"
+Year: 2024
 Publisher: CVPR
+aliases:
+  - "@luoPhysicsawareHandobjectInteraction2024"
 ---
 # Physics-aware Hand-object Interaction Denoising
 ## Motivation

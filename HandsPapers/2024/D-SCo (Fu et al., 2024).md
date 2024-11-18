@@ -1,10 +1,18 @@
 ---
 tags:
   - Hand-Object
-Institute: Tsing Univ, TUM, Google
-Corresponding Author: Xiangyang Ji and Federico Tombari
-Year: "2024"
+  - DNN/Diffusion
+Institute:
+  - Tsinghua Univ.
+  - TUM
+  - Google
+Corresponding Author:
+  - Xiangyang Ji
+  - Federico Tombari
+Year: 2024
 Publisher: ECCV
+aliases:
+  - "@fuDSCoDualStreamConditional"
 ---
 # D-SCo: Dual-Stream Conditional Diffusion for  Monocular Hand-Held Object Reconstruction
 ## Motivation

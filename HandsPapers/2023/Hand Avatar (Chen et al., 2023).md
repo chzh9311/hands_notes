@@ -2,6 +2,7 @@
 tags:
   - HandMesh
   - Representation
+  - HandAvatar
 Institute:
   - Xiaobing.AI
 Corresponding Author:
