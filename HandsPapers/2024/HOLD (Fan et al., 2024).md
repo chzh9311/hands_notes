@@ -31,7 +31,7 @@ Publisher: CVPR
 ## Method
 Inspired by [[Vid2avatar (Guo et al., 2023)]], [[Volume rendering of neural implicit surfaces]]
 ### Initial hand pose estimation <- hand regressor
-Simply use [[HShapeTransformer (Lin et al., 2021)]].
+Simply use [[METRO (Lin et al., 2021)]].
 ### Object pose <- structure from motion
 Following [[Hampali et al., 2023]]:
 1. Create object-only images by masking out the object pixels via [[SAM (Kirillov et al., 2023)]].

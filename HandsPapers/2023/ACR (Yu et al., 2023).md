@@ -15,7 +15,7 @@ aliases:
 ---
 # ACR: Attention Collaboration-Based Regressor for Arbitrary Two-Hand Reconstruction
 ## Motivation
-* Previous methods require two hands as input, sensitive to truncation & occlusions.
+* Previous methods require both two hands are seen in the input, sensitive to truncation & occlusions.
 ## Method
 Contributions are:
 * Take the first step towards reconstructing two hands at arbitrary scenes;

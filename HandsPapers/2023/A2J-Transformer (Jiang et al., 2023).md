@@ -15,3 +15,8 @@ aliases:
   - "@jiangA2JTransformerAnchorJointTransformer2023"
 ---
 # A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image
+## Motivation
+Challenges to address:
+1. inter- and intra-occlusions;
+2. similar appearance between hands;
+Key: the estimator should be aware of both **local details** and **global context** 

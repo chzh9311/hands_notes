@@ -14,8 +14,8 @@ aliases:
 ---
 # Coarse-to-Fine Implicit Representation Learning  for 3D Hand-Object Reconstruction from a Single  RGB-D Image
 ## Motivation
-1. Implicit representations ([[AlignSDF]], [[Grasping Field]]) can capture objects with arbitrary topology at arbitrary resolutions;
-2. Existing SDF-based methods suffer from heavy computational budgets. e.g., [[Marching Cube]] involves a large number of points far from the surface.
+1. Implicit representations ([[AlignSDF]], [[Grasping Field (Karunratanakul et al., 2021)]]) can capture objects with arbitrary topology at arbitrary resolutions;
+2. Existing SDF-based methods suffer from heavy computational budgets. e.g., [[Marching Cubes]] involves a large number of points far from the surface.
 ## Method
 ### Point-Cloud features
 Use two-branch hourglass to extract global image feature $F_{global}\in\mathbb{R}^C$ & visual feature $F_{visual}\in\mathbb{R}^{H\times W\times C}$. Follow [[2 heads better than 1 (Ren et al., 2023)]] to get point cloud features.

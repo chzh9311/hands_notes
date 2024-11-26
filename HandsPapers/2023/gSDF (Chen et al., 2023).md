@@ -15,7 +15,7 @@ aliases:
 # gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction
 ## Motivation
 1. [[MANO]] meshes have limited resolutions;
-2. Previous SDF based works ([[Grasping Field]], [[AlignSDF]]) does not solve more complex hand motions.
+2. Previous SDF based works ([[Grasping Field (Karunratanakul et al., 2021)]], [[AlignSDF]]) does not solve more complex hand motions.
 ## Method
 ![[gSDF-framework.png]]
 ## Kinematics feature

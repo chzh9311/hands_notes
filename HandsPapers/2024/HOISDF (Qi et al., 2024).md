@@ -15,9 +15,7 @@ Publisher: CVPR
 # HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields
 ## Motivation
 **Occlusion** is still a major challenge, which is due to the 3D shape representation method:
-Existing methods are 
-1. Direct lifting rely on the network to learn to map 2D to 3D.
-2. Coarse-to-fine tech initialize and refine.
+Existing methods rely on explicit intermediate representations
 SDF should do this better.
 ## Method
 1. Image features are extracted by a standard encoder-decoder (UNet).

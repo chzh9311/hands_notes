@@ -9,13 +9,13 @@ Institute:
 Corresponding Author:
   - Xiaolong Wang
 Code: " https://mq-zhang1.github.io/HOIDiffusion"
-Year: "2024"
+Year: 2024
 Publisher: CVPR
 ---
 # HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data
 ## Motivation
 Generate realistic images with GT hand pose & labels.
--> Use physical constraints
+-> Use physical constraints + Diffusion
 ## Method
 Stage I:
 A object model of arbitrary pose -> generate a hand trajectory to reach it.

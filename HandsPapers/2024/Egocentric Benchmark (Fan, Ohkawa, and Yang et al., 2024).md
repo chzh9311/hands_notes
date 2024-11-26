@@ -24,6 +24,8 @@ Corresponding Author:
   - Hyung Jin Chang
 Year: 2024
 Publisher: ECCV
+aliases:
+  - "@fanBenchmarksChallengesPose"
 ---
 # Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects (ECCV'24)
 ## Basics

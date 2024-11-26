@@ -32,6 +32,6 @@ $$SDF_d(X_d) = SDF_d(\phi(X_c)) = SDF_c(\phi^{-1}(X_d))$$
 introduce an inverse counterpart InvDeformNet, to restore 
 ### Inference
 1. RefNet -> Canonical hand mesh $M$
-2. Marching Cubes -> mesh and skinning weights
+2. [[Marching Cubes]] -> mesh and skinning weights
 3. Use DeformNet -> deform vertices in $M$.
 Step 1 is only done once.

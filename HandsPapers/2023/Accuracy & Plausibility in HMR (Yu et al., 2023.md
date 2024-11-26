@@ -21,7 +21,7 @@ This paper proposes to combine them.
 ### Joint regression
 Image =>ResNet50 => latent feature $z\in\mathbb{R}^{1000}$
 $z$ => pose decoder => $J_{pred}\in\mathbb{R}^{21\times 3}$. 
-$z$ => non-param model (like [[@ge3DHandShape]] or [[HShapeTransformer (Lin et al., 2021)]]). => hand mesh $M_{np}=(V, F)$ => Use $\mathcal{J}$ in MANO to regress joints $\hat{J}$. => VAE => refined joints $\tilde{J}$. 
+$z$ => non-param model (like [[@ge3DHandShape]] or [[METRO (Lin et al., 2021)]]). => hand mesh $M_{np}=(V, F)$ => Use $\mathcal{J}$ in MANO to regress joints $\hat{J}$. => VAE => refined joints $\tilde{J}$. 
 The loss is 
 $$L_{joint} = \|\hat{J}-J\| + \|\tilde{J}-J\| + \|\hat{J}-\tilde{J}\| + \lambda L_{KL}$$
 $L_{KL}$ is the KL divergence used in VAE.
