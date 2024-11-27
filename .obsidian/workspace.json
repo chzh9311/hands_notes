@@ -1,56 +1,14 @@
 {
   "main": {
-    "id": "4d75cae2719ad8c2",
+    "id": "33ada397c09573b0",
     "type": "split",
     "children": [
       {
-        "id": "ff95a270950a2558",
+        "id": "6605e80d0beb73a7",
         "type": "tabs",
         "children": [
           {
-            "id": "f4619263a9dfbddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summaries/CV Seminar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CV Seminar"
-            }
-          },
-          {
-            "id": "159daf30e5876c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OtherRelatedPapers/Marching Cubes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marching Cubes"
-            }
-          },
-          {
-            "id": "bbde7b0bef5f415a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summaries/2023Papers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023Papers"
-            }
-          },
-          {
-            "id": "ba6757e52e0e23a6",
+            "id": "a39f0617cf63b9ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,87 +22,197 @@
             }
           },
           {
-            "id": "9ab3ac8682aec38b",
+            "id": "7e3f246ef2e8df66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2023/Accuracy & Plausibility in HMR (Yu et al., 2023.md",
+                "file": "Summaries/2023Papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accuracy & Plausibility in HMR (Yu et al., 2023"
+              "title": "2023Papers"
             }
           },
           {
-            "id": "29b932aeaec407e2",
+            "id": "323f224db9a96347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "HandsPapers/2023/MeMaHand (Wang & Zhu et al., 2023).md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "MeMaHand (Wang & Zhu et al., 2023)"
+              "title": "Release Notes 1.7.7"
             }
           },
           {
-            "id": "12d7340c01d82206",
+            "id": "a370918972851ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2023/Im2Hands (Lee et al., 2023).md",
+                "file": "HandsPapers/2023/CAMS (Zheng, Zheng and Fang, 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Im2Hands (Lee et al., 2023)"
+              "title": "CAMS (Zheng, Zheng and Fang, 2023)"
             }
           },
           {
-            "id": "7ccf38cb6606e89b",
+            "id": "e07b5770f206b7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2023/ACR (Yu et al., 2023).md",
+                "file": "HandsPapers/2023/Affordance Diffusion (Ye et al., 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACR (Yu et al., 2023)"
+              "title": "Affordance Diffusion (Ye et al., 2023)"
             }
           },
           {
-            "id": "2b0efd0d6e9d4c24",
+            "id": "b9d89decbbba53f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2023/HandR2N2 (Cheng et al., 2023).md",
+                "file": "HandsPapers/2023/HTT (Wen et al., 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HandR2N2 (Cheng et al., 2023)"
+              "title": "HTT (Wen et al., 2023)"
             }
           },
           {
-            "id": "8aec75bc039d83cf",
+            "id": "8f57f235c35bb4da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
+                "file": "HandsPapers/2023/EgoPCA (Xu et al., 2023).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HaMuCo (Zheng et al., 2023)"
+              "title": "EgoPCA (Xu et al., 2023)"
+            }
+          },
+          {
+            "id": "62f0b2f2bcc13a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/DiffHOI (Ye et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DiffHOI (Ye et al., 2023)"
+            }
+          },
+          {
+            "id": "b4034da778209492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/DHANet (Leng et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHANet (Leng et al., 2023)"
+            }
+          },
+          {
+            "id": "c2883ed3d2739903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/CHORD (Li et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHORD (Li et al., 2023)"
+            }
+          },
+          {
+            "id": "f30592ef5dc978eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HFL-Net (Lin et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HFL-Net (Lin et al., 2023)"
+            }
+          },
+          {
+            "id": "28dd396cc43be5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/gSDF (Chen et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gSDF (Chen et al., 2023)"
+            }
+          },
+          {
+            "id": "f268b76242a8a7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spectral Graphormer (Tse et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spectral Graphormer (Tse et al., 2023)"
+            }
+          },
+          {
+            "id": "704163810dc54550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/POEM (Yang et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POEM (Yang et al., 2023)"
+            }
+          },
+          {
+            "id": "b567548af388e6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HandsPapers/2023/POEM (Yang et al., 2023).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POEM (Yang et al., 2023)"
             }
           }
         ],
@@ -154,15 +222,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "411f4a5a3bf93e46",
+    "id": "e5afff6bdd65e000",
     "type": "split",
     "children": [
       {
-        "id": "b6be2497fb85860e",
+        "id": "c7dcc9cdaaa225dd",
         "type": "tabs",
         "children": [
           {
-            "id": "897cb82a2a337973",
+            "id": "e69bda751e176374",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -174,12 +242,12 @@
             }
           },
           {
-            "id": "0ce7fcc99d99d641",
+            "id": "8b6646946f9d3f56",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "manipnet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +259,7 @@
             }
           },
           {
-            "id": "43ffac63a0c196fa",
+            "id": "3e8ea741aef66a41",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -204,23 +272,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "right": {
-    "id": "fbe5ddd7699ceae1",
+    "id": "81f77285ebf5ca6c",
     "type": "split",
     "children": [
       {
-        "id": "d9c10392cf45c089",
+        "id": "bef609745d3d0705",
         "type": "tabs",
         "children": [
           {
-            "id": "5502949a682b55c5",
+            "id": "1373836fe9859727",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summaries/2023Papers.md",
+                "file": "HandsPapers/2023/POEM (Yang et al., 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,60 +298,50 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023Papers"
+              "title": "Backlinks for POEM (Yang et al., 2023)"
             }
           },
           {
-            "id": "73577e7f6888a0f4",
+            "id": "10adb3f8c477f134",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summaries/2023Papers.md",
+                "file": "HandsPapers/2023/POEM (Yang et al., 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2023Papers"
+              "title": "Outgoing links from POEM (Yang et al., 2023)"
             }
           },
           {
-            "id": "8bc23eb296973a9f",
+            "id": "33921cc902398b2a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "9660b525238eaed6",
+            "id": "86c44039333dd712",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summaries/2023Papers.md"
+                "file": "HandsPapers/2023/POEM (Yang et al., 2023).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2023Papers"
+              "title": "Outline of POEM (Yang et al., 2023)"
             }
           },
           {
-            "id": "04eabf580072548d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "010bff76fc3e18da",
+            "id": "b5a6e87548329a82",
             "type": "leaf",
             "state": {
               "type": "reference-map-view",
@@ -293,71 +351,73 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "reference-map:Reference Map": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "reference-map:Reference Map": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bbde7b0bef5f415a",
+  "active": "323f224db9a96347",
   "lastOpenFiles": [
-    "HandsPapers/2023/POEM (Yang et al., 2023).md",
+    "HO-NeRF.md",
     "Summaries/2023Papers.md",
-    "HandsPapers/2023/Accuracy & Plausibility in HMR (Yu et al., 2023.md",
-    "HandsPapers/2023/MeMaHand (Wang & Zhu et al., 2023).md",
-    "HandsPapers/2023/Im2Hands (Lee et al., 2023).md",
-    "HandsPapers/2023/HARP (Karunratanakul et al., 2023).md",
-    "HandsPapers/2023/H2ONet (Xu et al., 2023).md",
-    "HandsPapers/2023/AMVUR (Jiang et al., 2023).md",
-    "HandsPapers/2023/ACR (Yu et al., 2023).md",
-    "HandsPapers/2023/Deformer (Fu et al., 2023).md",
-    "HandsPapers/2023/HandR2N2 (Cheng et al., 2023).md",
-    "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
-    "OtherRelatedPapers/Marching Cubes.md",
-    "HandsPapers/2023/NVFHand (Huang et al., 2023).md",
-    "HandsPapers/2023/Cross-Domain 3D Hand Pose Estimation with Dual Modalities (Lin & Yang, 2023).md",
-    "Summaries/2024Papers.md",
-    "HandsPapers/2024/Text2HOI.md",
+    "HandsDatasets/RenderIH.md",
+    "HandsPapers/2023/CAMS (Zheng, Zheng and Fang, 2023).md",
+    "HandsPapers/2023/Affordance Diffusion (Ye et al., 2023).md",
+    "HandsPapers/2023/HTT (Wen et al., 2023).md",
+    "HandsPapers/2023/EgoPCA (Xu et al., 2023).md",
+    "HandsPapers/2023/DiffHOI (Ye et al., 2023).md",
+    "HandsPapers/2023/In-Hand Scanning (Hampali et al., 2023).md",
+    "HandsPapers/2023/DHANet (Leng et al., 2023).md",
+    "HandsPapers/2023/CHORD (Li et al., 2023).md",
+    "HFL-Net (Lin et al., 2023).md",
+    "HandsPapers/2023/gSDF (Chen et al., 2023).md",
+    "PHRIT (Huang and Chen, 2023).md",
+    "Spectral Graphormer (Tse et al., 2023).md",
+    "HandsPapers/2023/POEM (Yang et al., 2023).md",
     "HandDGP (Valassakis and Garcia-Hernando, 2024).md",
-    "HandsPapers/2024/HOIDiffusion (Zhang and Fu, 2024).md",
-    "HandsPapers/2024/InterHandGen (Lee et al., 2024).md",
-    "HandsPapers/2024/CoSHAND (Sudhakar et al., 2024).md",
-    "HandsPapers/2024/S2DHand (Liu et al., 2024).md",
-    "HandsPapers/2024/AttentionHand (Park et al., 2024).md",
+    "Summaries/2024Papers.md",
     "Pasted image 20241126154341.png",
-    "HandsPapers/2024/Egocentric Benchmark (Fan, Ohkawa, and Yang et al., 2024).md",
-    "HandsPapers/2024/HOI-Synth (Leonardi et al., 2024).md",
-    "HandsPapers/2024/WildHands (Prakash et al., 2024).md",
     "Pasted image 20241126112215.png",
-    "HandsPapers/2021",
     "Pasted image 20241122162902.png",
     "Pasted image 20241122112106.png",
-    "AffordanceDiff_framework.png",
     "Pasted image 20241121172507.png",
-    "HandsDatasets/B6390200",
-    "HandsDatasets/53799100",
-    "HandsDatasets/34449100",
-    "HandsDatasets/EC639100",
-    "HandsDatasets/F8729100",
-    "HandsDatasets/9E5B8100",
-    "HandsDatasets/~$Dataset Summary.xlsx",
-    "HandsDatasets/5FB68100",
     "Pasted image 20241120145202.png",
-    "Images/Deformer2023.png",
     "Pasted image 20241119172521.png",
     "Pasted image 20241119172255.png",
-    "HandsPapers/2020"
+    "Pasted image 20241119113037.png",
+    "Pasted image 20241119104836.png",
+    "OtherRelatedPapers/Marching Cubes.md",
+    "OtherRelatedPapers/MLBasics/focal loss.md",
+    "OtherRelatedPapers/MLBasics/CVAE.md",
+    "Images/HALO (Karunratanakul et al., 2021).md",
+    "HandsPapers/InProcess/What's in ur hands (Ye et al., 2022).md",
+    "HandsPapers/InProcess/UnconstrainedHOR(Hasson et al., 2021).md",
+    "HandsPapers/InProcess/Photometric.md",
+    "HandsPapers/InProcess/MobRecon (Chen et al., 2022).md",
+    "HandsPapers/2021",
+    "HandsPapers/2020",
+    "Summaries",
+    "OtherRelatedPapers/MLBasics",
+    "HandsPapers/InProcess",
+    "HandsPapers/2024",
+    "HandsPapers/2023",
+    "HandsDatasets/Dataset Summary.xlsx",
+    "OtherRelatedPapers/exo-to-ego",
+    "OtherRelatedPapers",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

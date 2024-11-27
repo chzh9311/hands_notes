@@ -36,24 +36,37 @@
 * [[Accuracy & Plausibility in HMR (Yu et al., 2023]]
 	* Model-based + model-free
 * [[POEM (Yang et al., 2023)]]
+	* MV HMR by points around w/ features
 * [[Spectral Graphormer (Tse et al., 2023)]]
+	* Two hand HMR by spectral clustered part features.
 ## Representation
 * [[Hand Avatar (Chen et al., 2023)]]
+	* High-reso MANO + textures
 * [[Handy (Potamias et al., 2023)]]
+	* MANO-like param model from a more diverse dataset
 * [[PHRIT (Huang and Chen, 2023)]]
+	* paramer-controllable SDFs
 * [[gSDF (Chen et al., 2023)]]
+	* Use all joint positions to predict an SDF.
 ## Hand Object
 * [[HFL-Net (Lin et al., 2023)]]
+	* CL: Hands & Objects are competitive in feature learning
+	* SLN: Use separate, but not totally separate networks.
 * [[CHORD (Li et al., 2023)]]
+	* CL: Category-level object agnostic HOR
+	* SLN: Use a shape template to deform to the object in the category
 * [[DHANet (Leng et al., 2023)]]
+	* HOR in hyperbolic space
 * [[RUFormer (Xie et al., 2023)]]
+	* Use RUP to capture deformation of objects in HOR
 * [[In-Hand Scanning (Hampali et al., 2023)]]
-* [[DiffHOI (Ye et al., 2023)]]
 # New Sensors
 ## Egocentric
 * [[DiffHOI (Ye et al., 2023)]]
+	* Use Diffusion to guide the HOI reconstruction.
 * [[EgoPCA (Xu et al., 2023)]]
 * [[HTT (Wen et al., 2023)]]
+	* Action Recognition + Pose estimation
 ## Tactile Sensor
 * [[VTacO (Xu & Yu et al., 2023)]]
 ## RF-Vision
@@ -61,8 +74,17 @@
 # Synthesis
 ## Motion Synthesis
 * [[Affordance Diffusion (Ye et al., 2023)]]
+	* CL: Generate hand based on image input
+	* SLN: A C2F process
+		* Where to interact
+		* How to interact
 * [[CAMS (Zheng, Zheng and Fang, 2023)]]
+	* A standard representation for HO generation, suitable for articulated objects.
 * [[HO-NeRF]]
+	* CL: Hard to do NVS only with sparse views
+	* SLN
+		* fit to predefined hand model
+		* encourage contact
 ## Rendering
 * [[RelightableHands (Iwase et al., 2023)]]
 * [[LiveHand (Mundra et al., 2023)]]
