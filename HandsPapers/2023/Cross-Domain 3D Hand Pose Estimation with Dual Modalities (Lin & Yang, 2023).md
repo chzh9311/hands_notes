@@ -3,6 +3,7 @@ tags:
   - HandPose
   - DomainAdapt
   - weakly-supervised
+  - Discriminative
 Institute:
   - NUS
 Corresponding Author:

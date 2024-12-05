@@ -2,7 +2,8 @@
 tags:
   - MotionSynthesis
   - two-hand
-  - Hand-Object
+  - Hand-Object/Known-object
+  - Generative
 Institute:
   - KAIST
   - Meta
@@ -15,7 +16,7 @@ aliases:
 Year: 2024
 Publisher: CVPR
 ---
-# HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data
+# InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion
 ## Motivation
 * Interacting two-hand generation is underexplored
 	* There're models for hand-object [[Grasp'D]], [[Grasping Field (Karunratanakul et al., 2021)]]

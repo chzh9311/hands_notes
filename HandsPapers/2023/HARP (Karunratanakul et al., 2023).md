@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - HandAvatar
+  - Model-free
+  - Discriminative
 Institute:
   - ETH
   - MPI

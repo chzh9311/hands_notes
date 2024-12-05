@@ -1,8 +1,9 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-agnostic
   - DNN/Diffusion
   - Egocentric
+  - Generative
 Institute:
   - CMU
 Corresponding Author:

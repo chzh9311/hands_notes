@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-agnostic
   - ImplicitRepresentation
+  - "#Discriminative"
 Institute:
   - Beijing Univ of Posts and Telecommunications
 Corresponding Author:
@@ -14,7 +15,7 @@ aliases:
 ---
 # Coarse-to-Fine Implicit Representation Learning  for 3D Hand-Object Reconstruction from a Single  RGB-D Image
 ## Motivation
-1. Implicit representations ([[AlignSDF]], [[Grasping Field (Karunratanakul et al., 2021)]]) can capture objects with arbitrary topology at arbitrary resolutions;
+1. Implicit representations ([[AlignSDF (Chen et al., 2022)]], [[Grasping Field (Karunratanakul et al., 2021)]]) can capture objects with arbitrary topology at arbitrary resolutions;
 2. Existing SDF-based methods suffer from heavy computational budgets. e.g., [[Marching Cubes]] involves a large number of points far from the surface.
 ## Method
 ### Point-Cloud features

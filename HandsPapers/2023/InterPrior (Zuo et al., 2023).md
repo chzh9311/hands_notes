@@ -3,6 +3,8 @@ tags:
   - HandMesh
   - two-hand
   - Dataset
+  - Generative
+  - Model-based
 Institute:
   - Southeast Univ
   - ByteDance

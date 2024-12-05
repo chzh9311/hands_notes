@@ -1,8 +1,9 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Known-object
   - Contact
   - textDriven
+  - "#Generative"
 Institute:
   - Univ of Birmingham
   - NUS

@@ -2,6 +2,7 @@
 tags:
   - HandPose
   - two-hand
+  - Discriminative
 Institute:
   - A*STAR
   - Huazhong University of Sci and Tech

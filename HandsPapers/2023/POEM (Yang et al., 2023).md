@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - Multi-view
+  - Discriminative
+  - Model-free
 Institute:
   - SJTU
   - Shanghai Qi Zhi Institute

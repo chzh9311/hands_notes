@@ -3,6 +3,7 @@ tags:
   - HandMesh
   - Representation
   - HandAvatar
+  - Model-based
 Institute:
   - Xiaobing.AI
 Corresponding Author:

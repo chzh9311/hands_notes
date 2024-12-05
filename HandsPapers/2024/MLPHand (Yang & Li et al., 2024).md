@@ -2,6 +2,9 @@
 tags:
   - HandMesh
   - Multi-view
+  - "#Discriminative"
+  - "#Model-free"
+  - Efficiency
 Institute:
   - Beihang Univ
   - Beijing Academy of Blockchain & Edge Computing

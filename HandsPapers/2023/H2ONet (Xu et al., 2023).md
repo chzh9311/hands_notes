@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - LightWeight
+  - Model-free
+  - Discriminative
 Institute:
   - CUHK
 Corresponding Author:

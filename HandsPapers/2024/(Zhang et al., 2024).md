@@ -3,6 +3,8 @@ tags:
   - HandMesh
   - physics
   - weakly-supervised
+  - "#Discriminative"
+  - Model-based
 Institute:
   - Rensselaer Polytechnic Institute
   - IBM

@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-in-hand
   - DNN/Diffusion
+  - "#Generative"
 Institute:
   - Tsinghua Univ.
   - TUM

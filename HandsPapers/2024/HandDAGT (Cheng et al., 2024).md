@@ -2,6 +2,7 @@
 tags:
   - HandPose
   - DNN/Transformer
+  - "#Discriminative"
 Institute:
   - Sungkyunkwan Univ.
   - Alibaba

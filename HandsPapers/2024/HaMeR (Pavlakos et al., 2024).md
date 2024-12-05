@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - DNN/Transformer
+  - "#Discriminative"
+  - "#Model-based"
 Institute:
   - UT Austin
   - Univ of Michigan

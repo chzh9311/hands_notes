@@ -1,6 +1,7 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/object-agnostic
+  - Discriminative
 Institute:
   - Beihang Univ
   - TUM

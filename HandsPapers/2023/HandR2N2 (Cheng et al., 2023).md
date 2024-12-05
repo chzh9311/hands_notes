@@ -1,6 +1,7 @@
 ---
 tags:
   - HandPose
+  - Discriminative
 Institute:
   - Sungkyunkwan Univ.
 Corresponding Author:

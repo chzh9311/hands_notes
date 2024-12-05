@@ -1,6 +1,7 @@
 ---
 tags:
   - HandPose
+  - Discriminative
 Institute:
   - University at Buffalo
   - Microsoft

@@ -3,6 +3,7 @@ tags:
   - Egocentric
   - HandPose
   - weakly-supervised
+  - Discriminative
 Institute:
   - Univ of Tokyo
 Corresponding Author:

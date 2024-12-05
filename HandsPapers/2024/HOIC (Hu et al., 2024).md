@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Known-object
   - physics
+  - RL
 Institute:
   - Tsinghua Univ.
 Corresponding Author:

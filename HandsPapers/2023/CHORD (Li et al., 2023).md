@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-agnostic
   - Dataset
+  - Discriminative
 Institute:
   - SJTU
   - Shanghai Qi Zhi Institute
@@ -55,5 +56,5 @@ With a set of objects of the same category, use 3 approaches to find prior:
 Use [[OakInk]] as the source of the dataset.
 
 ## Experiments
-Compared to [[AlignSDF]] and [[iHOI]] on COMIC, results are better.
+Compared to [[AlignSDF (Chen et al., 2022)]] and [[iHOI]] on COMIC, results are better.
 ![[Pasted image 20241106154149.png]]

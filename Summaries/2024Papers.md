@@ -11,6 +11,7 @@
 	* SLN 
 		* bone-wise mesh;
 		* xyz channel separation.
+	* Model-free; 
 * [[(Zhang et al., 2024)]]
 	* CL
 		* weakly-supervised -> implausibility
@@ -18,26 +19,33 @@
 	* SLN
 		* Apply anatomy constraints;
 		* point -> Gaussian
+	* Model-based
 * [[SimpleHands (Zhou & Zhou et al., 2024)]]
 	* CL: Simple baseline
 	* SLN: Estimator = Token Generator + Mesh regressor
+	* Model-free
 * [[HandBooster (Xu et al., 2024)]]
 	* CL: Generate realistic images & annotations
 	* SLN: Synthesize w/ GT mesh as condition.
+	* Model-based
 * [[HHMR (Li et al., 2024)]]
 	* CL: All-In-One Generation Framework
 	* SLN: Concat Different Conditions and randomly mask.
+	* Model-free
 * [[MS-MANO (Xie & Xu et al., 2024)]]
 	* CL: Implausibility
 	* SLN: Use MuscularSkeletal Model.
+	* Model-based
 * [[HaMeR (Pavlakos et al., 2024)]]
 	* CL: Accuracy
 	* SLN: big data + big model
+	* Model-based
 * [[Hamba (Dong and Chharia et al., 2024)]]
 	* CL: 
 		* Accuracy;
 		* Mamba in Vision is not working well.
 	* SLN: Combine Mamba with GCN.
+	* Model-based
 ## Hand & Object
 * [[HORSE (Prakash et al., 2024)]]
 	* CL: Hand-held object
@@ -54,9 +62,11 @@
 	* SLN:
 		* centroid-fixed diffusion
 		* semantic (use MANO for occluded points) + geometric
+	* generative
 * [[NL2Contact (Zhang et al., 2024)]]
 	* NT: NL-guided HO contact modelling
 	* SLN: NL -> contact -> pose
+	* generative
 * [[G-HOP (Ye et al., 2024)]]
 	* CL: category-level H-O generation
 	* SLN: represent hand as distance field -> unify with object SDF.
@@ -72,6 +82,8 @@
 	* CL: plausibility
 	* SLN: 
 		* Use physical losses to refine hoi pose.
+* [[HOIC (Hu et al., 2024)]]
+	* Model hand-object w/ Deep RL.
 # New sensors
 ## Egocentric
 * [[WildHands (Prakash et al., 2024)]];

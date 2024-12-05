@@ -1,7 +1,7 @@
 ---
 tags:
   - textDriven
-  - Hand-Object
+  - Hand-Object/Known-object
   - Contact
 Institute:
   - UNIST

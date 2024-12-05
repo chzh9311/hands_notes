@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Known-object
   - physics
+  - Discriminative
 Institute:
   - Tsinghua Univ.
   - Shanghai AILab

@@ -62,6 +62,23 @@ dataset: https://github.com/usail-hkust/Jailjudge
 Open a door + Close a book => close a door.
 Something to something #Dataset 
 
+## Atomic Inference
+Challenges:
+1. what are atomic inferences
 
+Segment a NL inference hypothesis into spans
+Each span are encoded separately 
+> [!note] Max
+> Max is a logical operator.
 
+| Sentence label | Cont. spans | Neutral span |
+| -------------- | ----------- | ------------ |
+| Contradition   | >=1         | Unknown      |
+| Neutral        | None        | >=1          |
+| Entailment     | None        | None         |
+### Interpretable
+Decompose the premise to facts.
+Blog: [Creating Interpretable Models with Atomic Inference - Marek Rei](https://www.marekrei.com/blog/creating-interpretable-models-with-atomic-inference/)
 
+### DomainAdapt
+1. Debiasing: we can only debias one kind of bias. (When and Why Does Bias Mitigation work?)

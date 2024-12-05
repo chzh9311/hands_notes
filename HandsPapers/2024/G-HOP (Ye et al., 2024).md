@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-agnostic
   - DNN/Diffusion
+  - Generative
 Institute:
   - CMU
   - Meta

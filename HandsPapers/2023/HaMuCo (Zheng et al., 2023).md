@@ -3,6 +3,7 @@ tags:
   - HandPose
   - Multi-view
   - weakly-supervised
+  - Discriminative
 Institute:
   - Beijing Univ of Posts and Telecommunications
   - ByteDance

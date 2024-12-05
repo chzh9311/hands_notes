@@ -1,8 +1,9 @@
 ---
 tags:
   - ImageSynthesis
-  - Hand-Object
+  - Hand-Object/Known-object
   - textDriven
+  - Generative
 Institute:
   - UCSD
   - NVIDIA

@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - DNN/Diffusion
+  - "#Model-free"
+  - "#Generative"
 Institute:
   - Tsinghua Univ.
   - Beijing Normal Univ

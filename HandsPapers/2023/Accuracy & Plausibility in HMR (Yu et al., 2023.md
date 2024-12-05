@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - weakly-supervised
+  - Model-free
+  - Discriminative
 Institute:
   - NUS
   - Huawei

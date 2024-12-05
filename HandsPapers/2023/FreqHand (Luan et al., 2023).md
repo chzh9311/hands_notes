@@ -1,8 +1,10 @@
 ---
 tags:
-  - HumanMesh
+  - HandMesh
   - Representation
   - Frequency
+  - Discriminative
+  - Model-based
 Institute:
   - State Univ of New York at Buffalo
   - OPPO US

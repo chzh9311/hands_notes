@@ -1,7 +1,9 @@
 ---
 tags:
   - HandMesh
-  - LightWeight
+  - "#Efficiency"
+  - "#Model-free"
+  - "#Discriminative"
 Institute:
   - Jiiov Technology
 Corresponding Author:

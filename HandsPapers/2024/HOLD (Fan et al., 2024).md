@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-agnostic
   - RadianceField
+  - Discriminative
 Institute:
   - ETH
   - MPI

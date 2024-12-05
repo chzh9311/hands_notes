@@ -1,14 +1,15 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Known-object
   - ImplicitRepresentation
+  - Discriminative
 Institute:
   - EPFL
 Corresponding Author:
   - Alexander Mathis
 Code: https://github.com/amathislab/HOISDF
 aliases:
-  - qiHOISDFConstraining3D2024
+  - "@qiHOISDFConstraining3D2024"
 Year: 2024
 Publisher: CVPR
 ---
@@ -20,7 +21,7 @@ SDF should do this better.
 ## Method
 1. Image features are extracted by a standard encoder-decoder (UNet).
 2. SDF learning: 
-	1. is done in original space (not canonical like in [[AlignSDF]], and [[gSDF (Chen et al., 2023)]]), allowing to learn global features.
+	1. is done in original space (not canonical like in [[AlignSDF (Chen et al., 2022)]], and [[gSDF (Chen et al., 2023)]]), allowing to learn global features.
 	2. for a query point $p\in\mathbb{R}^3$, project to 2D image to get the feature via a MLP$$\mathbf{f}_{img}=MLP(cat_{i\in X}\mathbf{F}^i_{dec}(\pi_{3D\rightarrow 2D}))$$, features from all the decoder layers $X$ are concatenated together.
 	![[SDF_learning.png]]
 	3. The feature $\mathbf{f}_{img}$, is concatenated with $p$ and position encoding and together fed into SDF:$$d_\delta = \mathbb{SDF}_\delta(p\oplus\mathbf{f}_{img}\oplus\mathbf{f}_{pos})$$ where $\delta \in \{hand, object\}$

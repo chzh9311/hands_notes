@@ -3,6 +3,8 @@ tags:
   - HandMesh
   - DNN/Transformer
   - ProbabilisticModel
+  - Model-free
+  - Discriminative
 Institute:
   - Lancaster Univ
   - Oxford Univ

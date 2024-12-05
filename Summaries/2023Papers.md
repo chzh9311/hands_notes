@@ -44,12 +44,12 @@
 	* High-reso MANO + textures
 * [[Handy (Potamias et al., 2023)]]
 	* MANO-like param model from a more diverse dataset
-* [[PHRIT (Huang and Chen, 2023)]]
+* [[PHRIT (Huang and Chen, 2023) 1]]
 	* paramer-controllable SDFs
 * [[gSDF (Chen et al., 2023)]]
 	* Use all joint positions to predict an SDF.
 ## Hand Object
-* [[HFL-Net (Lin et al., 2023)]]
+* [[HFL-Net (Lin et al., 2023) 1]]
 	* CL: Hands & Objects are competitive in feature learning
 	* SLN: Use separate, but not totally separate networks.
 * [[CHORD (Li et al., 2023)]]
@@ -60,6 +60,8 @@
 * [[RUFormer (Xie et al., 2023)]]
 	* Use RUP to capture deformation of objects in HOR
 * [[In-Hand Scanning (Hampali et al., 2023)]]
+* [[DDF-HO]]
+* [[HOTrack|Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild]]
 # New Sensors
 ## Egocentric
 * [[DiffHOI (Ye et al., 2023)]]
@@ -90,12 +92,16 @@
 * [[LiveHand (Mundra et al., 2023)]]
 ## ImageSynthesis
 * [[HandAppearanceRecovery (Zhao et al., 2023)]]
+	* Marker-based -> Marker-less
 # Motion Prediction
 * [[Gesture Prediction from dynamics (Qi et al., 2023)]]
+	* 
 * [[EgoHandTrajPred]]
 # Dataset
 * [[ARCTIC (Fan et al., 2023)]]
+	* Hands & Articulated Objects
 * [[AffordPose (Jian et al., 2023)]]
+	* Object Affordance
 * [[AssemblyHands (Ohkawa et al., 2023)]]
 * [[RenderIH]]
 * [[BlurHandNet (Oh & Park et al., 2023)]]

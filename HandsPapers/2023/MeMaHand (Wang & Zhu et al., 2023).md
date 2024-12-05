@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - two-hand
+  - Model-free
+  - Discriminative
 Institute:
   - ByteDance
 Corresponding Author:

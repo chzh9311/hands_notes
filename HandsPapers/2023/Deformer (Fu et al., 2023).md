@@ -2,6 +2,7 @@
 tags:
   - DNN/Transformer
   - HandPose
+  - "#Discriminative"
 Institute:
   - CMU
   - Salesforce Research

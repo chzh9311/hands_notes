@@ -2,6 +2,8 @@
 tags:
   - HandMesh
   - Mamba
+  - "#Model-based"
+  - "#Discriminative"
 Institute:
   - CMU
 Corresponding Author:

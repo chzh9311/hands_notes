@@ -1,8 +1,9 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Known-object
   - Contact
   - non-rigid
+  - Discriminative
 Institute:
   - Southeast Univ
 Corresponding Author:

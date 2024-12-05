@@ -1,7 +1,8 @@
 ---
 tags:
-  - Hand-Object
+  - Hand-Object/Object-in-hand
   - weakly-supervised
+  - "#Discriminative"
 Institute:
   - UIUC
 Corresponding Author:

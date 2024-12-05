@@ -2,6 +2,7 @@
 tags:
   - HandMesh
   - two-hand
+  - Model-free
 Institute:
   - Google
   - Univ of Birmingham

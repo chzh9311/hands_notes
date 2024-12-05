@@ -1,7 +1,9 @@
 ---
 tags:
-  - HandPose
+  - HandMesh
   - physics
+  - "#Model-based"
+  - "#Discriminative"
 Institute:
   - Southeast Univ, SJTU
 Corresponding Author:

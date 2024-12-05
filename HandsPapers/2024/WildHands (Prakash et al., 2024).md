@@ -2,6 +2,7 @@
 tags:
   - HandPose
   - Egocentric
+  - Discriminative
 Institute:
   - UIUC
 Corresponding Author:

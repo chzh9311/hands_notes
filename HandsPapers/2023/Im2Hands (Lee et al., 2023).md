@@ -3,6 +3,8 @@ tags:
   - HandMesh
   - ImplicitRepresentation
   - two-hand
+  - Model-free
+  - Discriminative
 Institute:
   - KAIST
   - ICL

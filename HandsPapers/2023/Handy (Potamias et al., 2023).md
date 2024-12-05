@@ -3,6 +3,7 @@ tags:
   - HandMesh
   - Representation
   - HandAvatar
+  - Model-based
 Institute:
   - ICL
   - Cosmos Design

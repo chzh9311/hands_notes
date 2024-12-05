@@ -1,7 +1,7 @@
 ---
 tags:
   - ImageSynthesis
-  - HandMesh
+  - DataAugmentation
 Institute:
   - Sogang Univ.
 Corresponding Author:

@@ -5,7 +5,7 @@ tags:
   - Dataset
 Institute:
   - Meta
-  - University of Tokyo
+  - Univ of Tokyo
 Corresponding Author:
   - Cem Keskin
 Code: https://assemblyhands.github.io
@@ -14,3 +14,4 @@ aliases:
 Year: 2023
 Publisher: CVPR
 ---
+# AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation
