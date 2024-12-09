@@ -79,6 +79,8 @@ Each span are encoded separately
 ### Interpretable
 Decompose the premise to facts.
 Blog: [Creating Interpretable Models with Atomic Inference - Marek Rei](https://www.marekrei.com/blog/creating-interpretable-models-with-atomic-inference/)
-
 ### DomainAdapt
 1. Debiasing: we can only debias one kind of bias. (When and Why Does Bias Mitigation work?)
+## DeepAVFusion
+McGurk Illusion
+Vision block + Audio block + Dimensional Reduction

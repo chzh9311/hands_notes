@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/2022Papers.md",
+                "file": "Summaries/CV Seminar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022Papers"
+              "title": "CV Seminar"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HandsPapers/2024/Text2HOI.md",
+                "file": "HandsPapers/2024/HORSE (Prakash et al., 2024).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Text2HOI"
+              "title": "HORSE (Prakash et al., 2024)"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "HaMuCo (Zheng et al., 2023)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:textDriven",
+                "query": "HOISDF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HandsPapers/2024/Text2HOI.md",
+                "file": "Summaries/CV Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Text2HOI"
+              "title": "Backlinks for CV Seminar"
             }
           },
           {
@@ -294,16 +293,19 @@
       "reference-map:Reference Map": false
     }
   },
-  "active": "a9a29683469a70a0",
+  "active": "f4619263a9dfbddc",
   "lastOpenFiles": [
-    "Images/Text2HOI.png",
+    "HandsPapers/2024/HOISDF (Qi et al., 2024).md",
+    "Summaries/2022Papers.md",
+    "HandsPapers/2024/HORSE (Prakash et al., 2024).md",
+    "Summaries/2024Papers.md",
     "HandsPapers/2024/Text2HOI.md",
+    "Images/Text2HOI.png",
     "HandsPapers/2024/HOIDiffusion (Zhang and Fu, 2024).md",
     "HandsDatasets/BOTH2Hands (Zhang et al., 2024).md",
     "HandsPapers/2024/NL2Contact (Zhang et al., 2024).md",
     "HandsPapers/2024/(Zhang et al., 2024).md",
     "HandsPapers/2022/PressureVision (Grady et al., 2022).md",
-    "Summaries/2022Papers.md",
     "HandsPapers/2022/NIMBLE.md",
     "DART.md",
     "HandsPapers/2022/AlignSDF (Chen et al., 2022).md",
@@ -320,8 +322,6 @@
     "Summaries/CV Seminar.md",
     "HandsPapers/2024/HOIC (Hu et al., 2024).md",
     "Summaries/2023Papers.md",
-    "Summaries/2024Papers.md",
-    "HandsPapers/2023/HaMuCo (Zheng et al., 2023).md",
     "HandsDatasets/BA3D6100",
     "HandsDatasets/A99A6100",
     "HandsDatasets/5D7A6100",
@@ -340,7 +340,6 @@
     "HandsDatasets/951B4100",
     "HandsDatasets/8B9A4100",
     "Images/HDR_framework.png",
-    "Images/Pasted image 20241126154341.png",
-    "Images/Pasted image 20241126112215.png"
+    "Images/Pasted image 20241126154341.png"
   ]
 }
