@@ -19,6 +19,7 @@ Publisher: CVPR
 For Hand-Object Pose Estimation (HOPE) task:
 1. the required amount of data is more than the current dataset;
 ## Method
+![[Pasted image 20241210100929.png]]
 Overview:
 1. Construct CCV-space (including object types, hand pose, & viewpoints).
 2. Predict hard examples for data enhancement.

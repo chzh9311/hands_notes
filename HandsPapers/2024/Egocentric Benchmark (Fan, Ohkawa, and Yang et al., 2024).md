@@ -63,7 +63,7 @@ aliases:
 ![[Pasted image 20240929160209.png]]
 The two rows are in one line originally, split up due to page width limit. Each row, the 3 red colored blocks are the highest ones, and blue blocks are the lowest ones.
 * [[ARCTIC (Fan et al., 2023)]]
-![[Pasted image 20240929160410.png]]
+![[ARCTIC_Benchmarks.png]]
 
 ![[Pasted image 20240929161031.png]]
 ## Future work

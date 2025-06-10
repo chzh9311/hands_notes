@@ -9,7 +9,7 @@ Institute:
   - NVIDIA
 Corresponding Author:
   - Xiaolong Wang
-Code: " https://mq-zhang1.github.io/HOIDiffusion"
+Code: https://mq-zhang1.github.io/HOIDiffusion
 Year: 2024
 Publisher: CVPR
 ---

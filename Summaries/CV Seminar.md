@@ -20,7 +20,8 @@ $$Task \overset{LLM}{\rightarrow} hidden state \overset{autoencoder}{\rightarrow
 * ALS: Adaptive Layer Sparsity for LLM
 * No Free Lunch Theorem
 	* There's a lower bound for running time $$T_{A, F} \geq f(n)$$
-* Bit2Bit: 1-Bit Quanta Video Reconstruction 
+### Bit2Bit: 1-Bit Quanta Video Reconstruction 
+
 * Neural Model Checking
 
 ## Real-time 3D-aware portrait generation.
@@ -66,7 +67,7 @@ Something to something #Dataset
 Challenges:
 1. what are atomic inferences
 
-Segment a NL inference hypothesis into spans
+Segment a NL inferunce hypothesis into spans
 Each span are encoded separately 
 > [!note] Max
 > Max is a logical operator.
@@ -84,3 +85,35 @@ Blog: [Creating Interpretable Models with Atomic Inference - Marek Rei](https://
 ## DeepAVFusion
 McGurk Illusion
 Vision block + Audio block + Dimensional Reduction
+
+## Responsible AI for ST Visual Computing
+by Hubert Shum
+
+## VITRON: A Unified Pixel-level Vision LLM for 
+A model for all kinds of vision tasks (Image + Video / Understanding + Generating)
+
+## Perceptual Sensors of Robotics
+Thermal cameras 
+Change from RGB images to TIR images by distillation
+
+## MSGNet
+
+## Visual Autoregressive Modelling
+* Scalable Image Generation (Predict the next-scale)
+Method: step-by-step increase the scale.
+
+## World Foundation Model
+by google.
+Evaluate 3D consistency:
+1. Epipolar geometry
+2. Compare interpolated frames against NVS result.
+Evaluate physics:
+Use the model to predict future of a simulation environment, and compare with the simulative result.
+
+## Image deblurring
+Stripformer.
+
+## Travelling waves
+
+## Sign language understanding
+

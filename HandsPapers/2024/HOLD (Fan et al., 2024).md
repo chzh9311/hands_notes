@@ -23,7 +23,7 @@ Publisher: CVPR
 * Other methods without predefined object templates lacks generalization.
 	* [[Learning R of HO (Hasson, et al., 2019)]]
 	* [[Implicit for Grasp (Karunratanakul et al., 2020)]]
-	* [[What's in ur hands (Ye et al., 2022)]]
+	* [[iHOI (Ye et al., 2022)]]
 
 ## Problem
 *category-agnostic reconstruction of hands and objects from a monocular video*.

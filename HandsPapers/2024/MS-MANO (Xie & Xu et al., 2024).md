@@ -37,4 +37,4 @@ $$ \tau_m = f(F, x)\left\|(q-j)\times\frac{s_c}{\|s_c\|}\right\|$$
 5. Use a small MLP to produce a refined pose. $p^{refined} = \mathcal{M}(p^{pred}, p^{ref})$ and use GT to supervise this.
 ![[BioPR.png]]
 ## Experiments
-Manually designed methods like [[Toch (Zhou et al., 2022)]] may not fully capture the dynamics.
+Manually designed methods like [[TOCH (Zhou et al., 2022)]] may not fully capture the dynamics.

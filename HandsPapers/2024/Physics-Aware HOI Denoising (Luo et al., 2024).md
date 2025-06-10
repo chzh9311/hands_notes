@@ -19,7 +19,7 @@ aliases:
 Even the sota trackers will produce obvious errors. It is crucial to increase *physical plausibility*.
 Previous works are not doing well:
 * [[HOTrack (Chen et al., 2023)]] optimize hand poses by *minimizing low-level penetration and attraction*, but it get stuck in local optima easily.
-* [[ContactOpt (Grady et al., 2021)]] & [[Toch (Zhou et al., 2022)]] utilize DNN for pose refinement, but risk overfitting and over-smoothing, and no guarantee that the result is physically aware (?).
+* [[ContactOpt (Grady et al., 2021)]] & [[TOCH (Zhou et al., 2022)]] utilize DNN for pose refinement, but risk overfitting and over-smoothing, and no guarantee that the result is physically aware (?).
 
 ## Method
 ### Problem Formulation
@@ -29,12 +29,12 @@ Previous works are not doing well:
 *Target*: Refine the trajectory to get more plausible result $\hat{H}$.
 ### Dual-HOI representation
 With hand [[MANO]] meshes $H$ and object vertices  $O$ over T frames, the whole HOI representation is $$ F^i = (S^i, \mathcal{T}^i)$$
-$S$ represents the 21 keypoints from the vertices. $\mathcal{T}^i=\{\mathcal{C}_j^i\}_{j=1}^N$. $N$ points *randomly sampled* on the object surface in the $i$ th frame, and $\mathcal{C}_j$ represents the corresponding *hand* point of the jth object point from an implicit representation in [[Toch (Zhou et al., 2022)]]. The points are determined by the norm vector of the object point's first hit.
+$S$ represents the 21 keypoints from the vertices. $\mathcal{T}^i=\{\mathcal{C}_j^i\}_{j=1}^N$. $N$ points *randomly sampled* on the object surface in the $i$ th frame, and $\mathcal{C}_j$ represents the corresponding *hand* point of the jth object point from an implicit representation in [[TOCH (Zhou et al., 2022)]]. The points are determined by the norm vector of the object point's first hit.
 This is what the network refines. Final output is derived by fitting [[MANO]] mesh to the sample points.
 ![[physics-inference.png]]
 ### How to denoise?
 Use an *auto-encoder*: 
-Use [[PointNet]] to process the [[Toch (Zhou et al., 2022)]] field $\mathcal{T}$ to a **global object feature** -> concat with the hand centric part $S^i$ to form the HOI frame feature $x^i$ -> process with RNN -> the refined representation $\hat{F}$.
+Use [[PointNet]] to process the [[TOCH (Zhou et al., 2022)]] field $\mathcal{T}$ to a **global object feature** -> concat with the hand centric part $S^i$ to form the HOI frame feature $x^i$ -> process with RNN -> the refined representation $\hat{F}$.
 ### Training
 Stage 1. $$ \mathcal{L}_I = \alpha_T\mathcal{L}_T(\hat{\mathcal{T}}, \mathcal{T}_{GT}) + \alpha_S\mathcal{L}_S(\hat{S}, S_{GT})$$
 $S$ and $\mathcal{T}$ are the two different parts.

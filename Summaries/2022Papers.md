@@ -8,8 +8,9 @@
 * [[Collaborative Learning for Hand and Object Reconstruction With Attention-Guided Graph Convolution (Tse et al., 2022)]]
 * [[Stability-Driven Contact Reconstruction From Monocular Color Images (Zhao et al., 2022)]]
 * [[AlignSDF (Chen et al., 2022)]]
-* [[S$^2$Contact: Graph-Based Network for 3D Hand-Object Contact Estimation with Semi-supervised Learning]]
-* [[Toch (Zhou et al., 2022)|TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement]]
+* [[S2Contact (Elden & Zhang et al., 2022)|S2Contact: Graph-Based Network for 3D Hand-Object Contact Estimation with Semi-supervised Learning]]
+* [[TOCH (Zhou et al., 2022)|TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement]]
+* [[Keypoint Transformer (Hampli et la., 2022]]
 # Hand Mesh
 * [[HandOccNet (Park et al., 2022)|HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network]]
 * [[Interacting Attention Graph for Single Image Two-Hand Reconstruction]]

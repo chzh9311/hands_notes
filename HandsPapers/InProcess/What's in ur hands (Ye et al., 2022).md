@@ -1,1 +1,0 @@
-# What’s in your hands? 3d reconstruction of generic objects in hands.

@@ -15,7 +15,7 @@ Publisher: ECCV
 ## Motivation
 Problem: *single image* hand-held object reconstruction.
 1. Lack of 3D supervision in-the-wild is a major challenge
-2. Past works [[Learning R of HO (Hasson, et al., 2019)]], [[H2O]], [[What's in ur hands (Ye et al., 2022)]] cannot predict novel objects in-the-wild
+2. Past works [[Learning R of HO (Hasson, et al., 2019)]], [[H2O]], [[iHOI (Ye et al., 2022)]] cannot predict novel objects in-the-wild
 3. We have:
 	1. in-the-wild videos with multiple views of hand-held objects;
 	2. large catalogues of 3D object shapes
@@ -25,7 +25,7 @@ There is an assumption:
 > Hand pose relative to the object is constant during manipulation of rigid objects.
 
 ## Method
-Following [[What's in ur hands (Ye et al., 2022)]], use implicit shape representations (Occupancy & SDF).
+Following [[iHOI (Ye et al., 2022)]], use implicit shape representations (Occupancy & SDF).
 ### 2D mask guided 3D sampling
 Goal: Sample points for training SDF / Occupancy
 If a point is inside the mask at all views, then this point is considered inside the object.
